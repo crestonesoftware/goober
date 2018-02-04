@@ -1,2 +1,4 @@
 
 *.class
+testResources/goober/output/dictionaryOutputFile.txt
+output/o2c.dict
