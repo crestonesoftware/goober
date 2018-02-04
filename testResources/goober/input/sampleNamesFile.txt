@@ -1,0 +1,10 @@
+LoadCustomerFile
+UpdateCustomerDemographics
+PostUpdateCustomerDemographics
+IsLivingCustomer
+IsValidAddress
+StreetAddressFull
+MailingAddressFull
+AllContactAddresses
+WriteNewObject
+FetchCustomerData

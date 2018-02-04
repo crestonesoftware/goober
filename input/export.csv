@@ -1,0 +1,2205 @@
+PYRULESET,PYRULESETVERSION,PYRULENAME
+O2C,1/1/2001,.PlannerWebLink 
+O2C,1/1/2001,.ProcessControl.LabelsDeadlineTime 
+O2C,1/1/2001,.ProcessControl.LabelsGoalTime 
+O2C,1/1/2001,.ProcessControl.PrelimDeadlineTime 
+O2C,1/1/2001,.ProcessControl.PrelimGoalTime 
+O2C,1/1/2001,.ProcessControl.PrintOrderDeadlineTime 
+O2C,1/1/2001,.ProcessControl.PrintOrderGoalTime 
+O2C,1/1/2001,.ProcessControl.ProdTicketDeadlineTime 
+O2C,1/1/2001,.ProcessControl.ProdTicketGoalTime 
+O2C,1/1/2001,.TitleIssueSentence 
+O2C,1/1/2001,AddWorkPartyWithErrorHandling
+O2C,1/1/2001,AdditionalInstructionsOverview
+O2C,1/1/2001,AdjustmentDialogItems
+O2C,1/1/2001,AdjustmentNeeded
+O2C,1/1/2001,AdjustmentNote
+O2C,1/1/2001,AdjustmentResponseType
+O2C,1/1/2001,AdjustmentView
+O2C,1/1/2001,ApplyOwnerForCase
+O2C,1/1/2001,AreInstructionsAddedToJobJacket
+O2C,1/1/2001,AreInstructionsFromClientNeeded
+O2C,1/1/2001,AreLabelsCorrectionsNeeded
+O2C,1/1/2001,AssignLabelsCorrections
+O2C,1/1/2001,AssignLabelsCorrections
+O2C,1/1/2001,AssignLabelsToMe
+O2C,1/1/2001,AssignLabelsToMe
+O2C,1/1/2001,AssignPrelimToMe
+O2C,1/1/2001,AssignPrelimToMe
+O2C,1/1/2001,AssignProdTicketToMe
+O2C,1/1/2001,AssignProdTicketToMe
+O2C,1/1/2001,BasicView
+O2C,1/1/2001,BasicView
+O2C,1/1/2001,BindStatus
+O2C,1/1/2001,CHILDpxObjClass
+O2C,1/1/2001,CHILDpzInsKey
+O2C,1/1/2001,CanManuallyAlterWorparties
+O2C,1/1/2001,CanSeeRawData
+O2C,1/1/2001,CanSeeRawData
+O2C,1/1/2001,Carrier
+O2C,1/1/2001,CaseBriefSummary
+O2C,1/1/2001,CaseManager
+O2C,1/1/2001,CaseManager
+O2C,1/1/2001,CaseStageCountChart
+O2C,1/1/2001,CaseWhen2Nulls
+O2C,1/1/2001,CaseWorker
+O2C,1/1/2001,CaseWorker
+O2C,1/1/2001,ClearAddWorkPartyParams
+O2C,1/1/2001,ClearProblemMarker
+O2C,1/1/2001,ClientSpecs
+O2C,1/1/2001,ContentMultiDoc
+O2C,1/1/2001,ContentOverview
+O2C,1/1/2001,ContentOverview
+O2C,1/1/2001,ContentOverview
+O2C,1/1/2001,ContinueAfterPrepareException
+O2C,1/1/2001,ContinueAfterPrepareException
+O2C,1/1/2001,ContinueAfterPrepareException
+O2C,1/1/2001,ContinueProcess
+O2C,1/1/2001,ContinueProcess
+O2C,1/1/2001,CorrectLabels
+O2C,1/1/2001,CorrectionsNeeded
+O2C,1/1/2001,CorrectionsNote
+O2C,1/1/2001,CorrectionsPerformer
+O2C,1/1/2001,CreateOrderFromIssue
+O2C,1/1/2001,D_MyOrders
+O2C,1/1/2001,D_MyOrdersChildren
+O2C,1/1/2001,D_O2CAppLogsByDate
+O2C,1/1/2001,D_WorkbasketsForOperatorWorkGroups
+O2C,1/1/2001,DataTableEditorReport
+O2C,1/1/2001,DeadlineTime
+O2C,1/1/2001,DeadlineTimeWithPriority
+O2C,1/1/2001,DistributionType
+O2C,1/1/2001,DueDate
+O2C,1/1/2001,DueDate
+O2C,1/1/2001,DueDate
+O2C,1/1/2001,EO2C Issue Update
+O2C,1/1/2001,EO2C20180111Fix b
+O2C,1/1/2001,EO2CFlowPaths20180108 A
+O2C,1/1/2001,EO2C_20180105 01.01
+O2C,1/1/2001,EO2C_20180130 01.01
+O2C,1/1/2001,EPDFilterLast7Default
+O2C,1/1/2001,ExistsWorkPartyByParam
+O2C,1/1/2001,ExternalLinks
+O2C,1/1/2001,GeneralNote
+O2C,1/1/2001,GetDataFromParent
+O2C,1/1/2001,GetWorkbasketsForOperatorWorkGroups
+O2C,1/1/2001,HandBoundShipDate
+O2C,1/1/2001,HandleIssueTouch
+O2C,1/1/2001,HandlePrepareException
+O2C,1/1/2001,HandlePrepareExceptionByRepeatSLA
+O2C,1/1/2001,HandlePrepareExceptionManuallySLA
+O2C,1/1/2001,HandleResolveRevoked
+O2C,1/1/2001,HandleResolveRevoked
+O2C,1/1/2001,HandleResolveRevoked
+O2C,1/1/2001,HasAtLeastOneAltOwner
+O2C,1/1/2001,HasAtLeastOneSelectedWorkParty
+O2C,1/1/2001,HasCurrentOperatorExactlyOneWorkGroup
+O2C,1/1/2001,HasExactlyOneOwner
+O2C,,History-QUAD-O2C-Data-Hierarchy-Order
+O2C,,History-QUAD-O2C-Data-Hierarchy-OrderChildren
+O2C,,History-QUAD-O2C-Work
+O2C,,History-QUAD-O2C-Work-Order
+O2C,,History-QUAD-O2C-Work-PrdInstr
+O2C,1/1/2001,InitAddWorkPartyParams
+O2C,1/1/2001,InitMyOrderParams
+O2C,1/1/2001,InitMyOrders
+O2C,1/1/2001,InstanceAndIssue
+O2C,1/1/2001,InstanceAndIssue
+O2C,1/1/2001,Instructions
+O2C,1/1/2001,InternationalValue
+O2C,1/1/2001,IsAddedToJobJacket
+O2C,1/1/2001,IsAltOwnerParty
+O2C,1/1/2001,IsHandBoundNeeded
+O2C,1/1/2001,IsIssueDataPresent
+O2C,1/1/2001,IsIssueIDCorrect
+O2C,1/1/2001,IsIssueStatusLost
+O2C,1/1/2001,IsLabelsCorectionsOverviewVisible
+O2C,1/1/2001,IsLabelsCorrectionsNeededOverviewVisible
+O2C,1/1/2001,IsLabelsCorrectionsNoNeededNoteVisible
+O2C,1/1/2001,IsLabelsInstructionsOverviewVisible
+O2C,1/1/2001,IsLabelsOverviewVisible
+O2C,1/1/2001,IsLocationNotValidForLabelsStage
+O2C,1/1/2001,IsLocationNotValidForServiceSyncStages
+O2C,1/1/2001,IsOperatorInPega
+O2C,1/1/2001,IsOperatorValidToPick
+O2C,1/1/2001,IsOrderResolved
+O2C,1/1/2001,IsOwnerCorrectionsPerformer
+O2C,1/1/2001,IsOwnerLabelsPerformer
+O2C,1/1/2001,IsOwnerParty
+O2C,1/1/2001,IsOwnerProdTicketPerformer
+O2C,1/1/2001,IsPrelimDetailsOverviewVisible
+O2C,1/1/2001,IsPrelimInstructionsOverviewVisible
+O2C,1/1/2001,IsPrelimNegativelyVerified
+O2C,1/1/2001,IsPrelimPositivelyVerified
+O2C,1/1/2001,IsPrelimSkipped
+O2C,1/1/2001,IsPrelimSkippedByTitleProfile
+O2C,1/1/2001,IsPrelimSkippedManually
+O2C,1/1/2001,IsPrelimStage
+O2C,1/1/2001,IsPrelimStageToSkip
+O2C,1/1/2001,IsPrelimTicketOverviewVisible
+O2C,1/1/2001,IsPrepareExceptionCurableWithRepetition
+O2C,1/1/2001,IsPrepareExceptionCurableWithRepetition
+O2C,1/1/2001,IsPrepareExceptionCurableWithRepetition
+O2C,1/1/2001,IsPressDateInDateRange
+O2C,1/1/2001,IsPrintOrderOverviewVisible
+O2C,1/1/2001,IsPrintOrderStage
+O2C,1/1/2001,IsProblemMarkerSet
+O2C,1/1/2001,IsProcessContentTabVisible
+O2C,1/1/2001,IsProdTicketDetailsOverviewVisible
+O2C,1/1/2001,IsProdTicketNegativelyVerified
+O2C,1/1/2001,IsProdTicketOverviewVisible
+O2C,1/1/2001,IsProdTicketPositivelyVerified
+O2C,1/1/2001,IsProdTicketStage
+O2C,1/1/2001,IsProdTicketStageToSkip
+O2C,1/1/2001,IsReachedMaxRepetitionCount
+O2C,1/1/2001,IsResolveStage
+O2C,1/1/2001,IsRetailIssue
+O2C,1/1/2001,IsRoleADM
+O2C,1/1/2001,IsRoleToAdd2Order
+O2C,1/1/2001,IsRoleToAdd2OrderAsInterested
+O2C,1/1/2001,IsRoleToAdd2PrdInstr
+O2C,1/1/2001,IsRoleToAdd2PrdInstrAsInterested
+O2C,1/1/2001,IsRoleToAdd2PrdInstrAsOwner
+O2C,1/1/2001,IsValidLocationForPrdInstr
+O2C,1/1/2001,IsValidLocationForPrep
+O2C,1/1/2001,IsWaitStage
+O2C,1/1/2001,Issue
+O2C,1/1/2001,Issue
+O2C,1/1/2001,IssueID
+O2C,1/1/2001,IssueOverview
+O2C,1/1/2001,JobNote
+O2C,1/1/2001,JobNote
+O2C,1/1/2001,LabelsCorrections
+O2C,1/1/2001,LabelsCorrectionsOverview
+O2C,1/1/2001,LabelsDeadlineTime
+O2C,1/1/2001,LabelsDetails
+O2C,1/1/2001,LabelsGoalTime
+O2C,1/1/2001,LabelsInstructions
+O2C,1/1/2001,LabelsPerformer
+O2C,1/1/2001,LabelsStage
+O2C,1/1/2001,LinksToRunListImport
+O2C,1/1/2001,LogPurge
+O2C,1/1/2001,LogPurgeWrapper
+O2C,1/1/2001,Maintenance S ALL
+O2C,1/1/2001,Maintenance S ALL ApplicationLogs
+O2C,1/1/2001,Maintenance S ALL ScheduledServiceSyncPlantUtilization
+O2C,1/1/2001,ManagerContentMultiDoc
+O2C,1/1/2001,ManagerDashboard
+O2C,1/1/2001,ManagerDashboardContent
+O2C,1/1/2001,ManagerDashboardRightColumn
+O2C,1/1/2001,ManuallySkippedStage
+O2C,1/1/2001,MyCasesColumn A
+O2C,1/1/2001,MyOrderParams
+O2C,1/1/2001,MyOrders
+O2C,1/1/2001,MyOrders
+O2C,1/1/2001,MyOrders
+O2C,1/1/2001,MyOrdersAll
+O2C,1/1/2001,MyOrdersChildren
+O2C,1/1/2001,MyOrdersChildrenAll
+O2C,1/1/2001,MyOrdersReport
+O2C,1/1/2001,MyOrdersWrapper
+O2C,1/1/2001,MyWorkbasket
+O2C,1/1/2001,MyWorkbasketWrapper
+O2C,1/1/2001,MyWorkgroupsWorklistSummary
+O2C,1/1/2001,MyWorklist
+O2C,1/1/2001,MyWorklistWrapper
+O2C,1/1/2001,NewHarnessExplanation
+O2C,1/1/2001,Note
+O2C,1/1/2001,NoteFrom
+O2C,1/1/2001,NoteFromID
+O2C,1/1/2001,O2C
+O2C,,O2C
+O2C,,O2C 01-01-01
+O2C,1/1/2001,O2CAppLogs
+O2C,1/1/2001,OFTemplate
+O2C,1/1/2001,ORDpzInsKey
+O2C,1/1/2001,ORDpzInsKey
+O2C,1/1/2001,OrderBrowser
+O2C,1/1/2001,OrderBrowserInfo
+O2C,1/1/2001,OrderBrowserNav
+O2C,1/1/2001,OrderBrowserReport
+O2C,1/1/2001,OrderBrowserWrapper
+O2C,1/1/2001,OrderCaseSearch
+O2C,1/1/2001,OrderCaseSearch
+O2C,1/1/2001,OrderCaseSearchNav
+O2C,1/1/2001,OrderCaseSearchReport
+O2C,1/1/2001,OrderCaseSearchWrapper
+O2C,1/1/2001,PEGAO2C_ AuthProfile
+O2C,1/1/2001,PINpzInsKey
+O2C,1/1/2001,PRPpzInsKey
+O2C,1/1/2001,PaperNote
+O2C,1/1/2001,PaperStatus
+O2C,1/1/2001,PartyLabelWithPosition
+O2C,1/1/2001,PartyNameWithProblemMarker
+O2C,1/1/2001,PegaOOTBForCSR S ALL
+O2C,1/1/2001,PerformLabelsCorrections
+O2C,1/1/2001,PerformLabelsCorrections
+O2C,1/1/2001,PerformLabelsInstructions
+O2C,1/1/2001,PerformLabelsInstructions
+O2C,1/1/2001,PerformPrelim
+O2C,1/1/2001,PerformPrelim
+O2C,1/1/2001,PerformPrelimAdjustment
+O2C,1/1/2001,PerformPrelimAdjustment
+O2C,1/1/2001,PerformPrelimVerification
+O2C,1/1/2001,PerformPrelimVerification
+O2C,1/1/2001,PerformPrintOrder
+O2C,1/1/2001,PerformPrintOrder
+O2C,1/1/2001,PerformProdTicket
+O2C,1/1/2001,PerformProdTicket
+O2C,1/1/2001,PerformProdTicketAdjustment
+O2C,1/1/2001,PerformProdTicketAdjustment
+O2C,1/1/2001,PerformProdTicketVerification
+O2C,1/1/2001,PerformProdTicketVerification
+O2C,1/1/2001,PerformResolveRevoke
+O2C,1/1/2001,PerformResolveRevoked
+O2C,1/1/2001,PickOwner
+O2C,1/1/2001,PickOwner
+O2C,1/1/2001,PickOwner
+O2C,1/1/2001,PickOwnerValidate
+O2C,1/1/2001,PlantUtilCAMResolveEarly
+O2C,1/1/2001,PlantUtilCSAResolved
+O2C,1/1/2001,PlantUtilFinalCAM
+O2C,1/1/2001,PlantUtilFinalCSA
+O2C,1/1/2001,PlantUtilNonEligibleCSA
+O2C,1/1/2001,PlantUtilNumberOrderCases
+O2C,1/1/2001,PlantUtilNumberOrderCasesEligible
+O2C,1/1/2001,PlantUtilOrdersNonEligible
+O2C,1/1/2001,PlantUtilUnresolvedPO
+O2C,1/1/2001,PlantUtilization
+O2C,1/1/2001,PostAllCoveredResolved
+O2C,1/1/2001,PostPerformPrelimAdjustment
+O2C,1/1/2001,PostPerformPrelimVerification
+O2C,1/1/2001,PostPerformProdTicketAdjustment
+O2C,1/1/2001,PostPerformProdTicketVerification
+O2C,1/1/2001,PostPickOwner
+O2C,1/1/2001,PostPrepareWorkparties
+O2C,1/1/2001,PostPrepareWorkparties
+O2C,1/1/2001,PostSkipPrelim
+O2C,1/1/2001,PostWaitForPrdInstr
+O2C,1/1/2001,PostWaitForPrep
+O2C,1/1/2001,PostWaitForPrepMockup
+O2C,1/1/2001,PrdInstrState
+O2C,1/1/2001,PreAssignLabelsCorrections
+O2C,1/1/2001,PreMyOrdersRefresh
+O2C,1/1/2001,PrePerformPrelim
+O2C,1/1/2001,PrePerformPrelimAdjustment
+O2C,1/1/2001,PrePerformPrelimVerification
+O2C,1/1/2001,PrePerformPrintOrder
+O2C,1/1/2001,PrePerformProdTicket
+O2C,1/1/2001,PrePerformProdTicketAdjustment
+O2C,1/1/2001,PrePerformProdTicketVerification
+O2C,1/1/2001,PreProvideLabelsInstructions
+O2C,1/1/2001,PreProvidePrelimInstructions
+O2C,1/1/2001,PreShowMyOrdersDetails
+O2C,1/1/2001,PrelimDeadlineTime
+O2C,1/1/2001,PrelimDetails
+O2C,1/1/2001,PrelimGoalTime
+O2C,1/1/2001,PrelimStage
+O2C,1/1/2001,PrelimStart
+O2C,1/1/2001,PrelimTransition
+O2C,1/1/2001,PrelimVerify
+O2C,1/1/2001,PrepState
+O2C,1/1/2001,PrepareCaseData
+O2C,1/1/2001,PrepareCaseData
+O2C,1/1/2001,PrepareControlDataForWaiting
+O2C,1/1/2001,PrepareForWait
+O2C,1/1/2001,PrepareLabels
+O2C,1/1/2001,PreparePrelimTransition
+O2C,1/1/2001,PrepareStartCaseData
+O2C,1/1/2001,PrepareStartCaseData A
+O2C,1/1/2001,PrepareWPs4OrderCase
+O2C,1/1/2001,PrepareWPs4PrdInstrCase
+O2C,1/1/2001,PressStatus
+O2C,1/1/2001,PricingSource
+O2C,1/1/2001,PrintOrder
+O2C,1/1/2001,PrintOrderDeadlineTime
+O2C,1/1/2001,PrintOrderDetails
+O2C,1/1/2001,PrintOrderGoalTime
+O2C,1/1/2001,PrintOrderStage
+O2C,1/1/2001,ProblemMarker
+O2C,1/1/2001,ProblemMarkerDescription
+O2C,1/1/2001,ProblemMarkerDescription IssueDataIncomplete
+O2C,1/1/2001,ProblemMarkerDescription NoIssueDataFromExternalService
+O2C,1/1/2001,ProblemMarkerDescription NoIssueID
+O2C,1/1/2001,ProblemMarkerDescription TitleProfileReturnedNoData
+O2C,1/1/2001,ProblemMarkerDescription TitleProfileServiceError
+O2C,1/1/2001,ProblemMarkerDescription UnableToDetermineOwnerForTheCase
+O2C,1/1/2001,ProblemMarkerDescription WorkPartiesIncomplete
+O2C,1/1/2001,ProblemMarkerDescription WorkPartiesMissing
+O2C,1/1/2001,ProblemMarkerDescription WorkPartiesWithoutOperators
+O2C,1/1/2001,ProblemMarkerDescription WorkPartiesWithoutUserIdentifier
+O2C,1/1/2001,ProcessControl
+O2C,1/1/2001,ProcessControl
+O2C,1/1/2001,ProcessControlOverview
+O2C,1/1/2001,ProcessControlOverview
+O2C,1/1/2001,ProcessOverview
+O2C,1/1/2001,Processing
+O2C,1/1/2001,Processing
+O2C,1/1/2001,Processing
+O2C,1/1/2001,ProdTicketDeadlineTime
+O2C,1/1/2001,ProdTicketDetails
+O2C,1/1/2001,ProdTicketGoalTime
+O2C,1/1/2001,ProdTicketPerformer
+O2C,1/1/2001,ProdTicketStage
+O2C,1/1/2001,ProdTicketStart
+O2C,1/1/2001,ProdTicketVerify
+O2C,1/1/2001,ProductionTicketInstructions
+O2C,1/1/2001,ProvideLabelsInstructions
+O2C,1/1/2001,ProvideLabelsInstructions
+O2C,1/1/2001,ProvidePrelimInstructions
+O2C,1/1/2001,ProvidePrelimInstructions
+O2C,,QUAD-O2C
+O2C,,QUAD-O2C-Data
+O2C,,QUAD-O2C-Data-AdjustmentDialogItem
+O2C,,QUAD-O2C-Data-Hierarchy
+O2C,,QUAD-O2C-Data-Hierarchy-Order
+O2C,,QUAD-O2C-Data-Hierarchy-OrderChildren
+O2C,,QUAD-O2C-Data-LabelsDetails
+O2C,,QUAD-O2C-Data-OrderProcessControl
+O2C,,QUAD-O2C-Data-PrdInstrProcessControl
+O2C,,QUAD-O2C-Data-PrintOrderDetails
+O2C,,QUAD-O2C-Data-TicketDetails
+O2C,,QUAD-O2C-Work
+O2C,,QUAD-O2C-Work-Order
+O2C,,QUAD-O2C-Work-PrdInstr
+O2C,,QUAD-O2C2-SR
+O2C,,QUAD-eO2C-SR
+O2C,1/1/2001,QueueIssueUpdate
+O2C,1/1/2001,QueueOrderCaseCreation
+O2C,1/1/2001,QueueOrderCaseCreationWrapper
+O2C,1/1/2001,RawData
+O2C,1/1/2001,RawData
+O2C,1/1/2001,RePickOwner
+O2C,1/1/2001,RePickOwner
+O2C,1/1/2001,RecordID
+O2C,1/1/2001,RelatedCases
+O2C,1/1/2001,RelatedCases
+O2C,1/1/2001,RelatedCases
+O2C,1/1/2001,RelatedCases
+O2C,1/1/2001,ResolveCase
+O2C,1/1/2001,ResponseType
+O2C,1/1/2001,ResponseView
+O2C,1/1/2001,RetryAddWorkparty
+O2C,1/1/2001,RetryAddWorkparty
+O2C,1/1/2001,RetryAddWorkpartyDescription
+O2C,1/1/2001,Schedule
+O2C,1/1/2001,ScheduledPlantUtilization
+O2C,1/1/2001,SelectCurrentPageUnselectTheRest
+O2C,1/1/2001,SelectFirstAltOwner
+O2C,1/1/2001,SendEmailWithLog
+O2C,1/1/2001,ServiceSyncAdjustments
+O2C,1/1/2001,ServiceSyncAdjustmentsDetails
+O2C,1/1/2001,ServiceSyncDepartment S ALL
+O2C,1/1/2001,ServiceSyncDepartment S ALL ProductionInstructions
+O2C,1/1/2001,ServiceSyncDepartment S ALL ServiceSyncAdjustments
+O2C,1/1/2001,ServiceSyncDepartment S ALL ServiceSyncOrderComments
+O2C,1/1/2001,ServiceSyncDepartment S ALL ServiceSyncOrderSummary
+O2C,1/1/2001,ServiceSyncDepartment S ALL ServiceSyncPlantUtilization
+O2C,1/1/2001,ServiceSyncDepartment S ALL WorklistAssignments
+O2C,1/1/2001,ServiceSyncOrderComments
+O2C,1/1/2001,ServiceSyncOrderSummary
+O2C,1/1/2001,SetDataForNewOrder
+O2C,1/1/2001,SetMyOrdersSearchByEPD
+O2C,1/1/2001,SetPrdInstrState
+O2C,1/1/2001,SetPrepState
+O2C,1/1/2001,SetValues4OrderSearch
+O2C,1/1/2001,SetpyDateValue4OrderBrowser
+O2C,1/1/2001,ShippingPlants
+O2C,1/1/2001,ShowAdjustmentDialog
+O2C,1/1/2001,ShowDetails
+O2C,1/1/2001,ShowDetails
+O2C,1/1/2001,ShowMyOrdersDetails
+O2C,1/1/2001,ShowMyOrdersDetails
+O2C,1/1/2001,ShowProblemMarker
+O2C,1/1/2001,ShowUserFilter
+O2C,1/1/2001,SkipPrelim
+O2C,1/1/2001,SkipPrelim
+O2C,1/1/2001,SpecialPackaging
+O2C,1/1/2001,SplitWait
+O2C,1/1/2001,StageHistory
+O2C,,System-Queue-Issue
+O2C,1/1/2001,TicketInstructions
+O2C,1/1/2001,TitleProfile
+O2C,1/1/2001,TitleProfileDescription
+O2C,1/1/2001,TitleProfileOverview
+O2C,1/1/2001,UpdateFromExternal
+O2C,1/1/2001,UpdateWaitShapesSLAs
+O2C,1/1/2001,UserWorkListBrief
+O2C,1/1/2001,WaitAndActForPrdInstr
+O2C,1/1/2001,WaitAndActForPrep
+O2C,1/1/2001,WaitTillForPrdInstr
+O2C,1/1/2001,WaitTillForPrep
+O2C,1/1/2001,Waiting
+O2C,1/1/2001,WorkBasketsForOperator
+O2C,1/1/2001,WorkBasketsForWorkGroups
+O2C,1/1/2001,WorkSummaryToDig
+O2C,1/1/2001,WorkpartyNotSelected
+O2C,,eO2C 01.01
+O2C,1/1/2001,eO2C 20180109.134248
+O2C,1/1/2001,eO2C:ADM
+O2C,,eO2C:ADM @baseclass
+O2C,,eO2C:ADM Assign-
+O2C,,eO2C:ADM Code-
+O2C,,eO2C:ADM Data-
+O2C,,eO2C:ADM Data-AdHocNotes
+O2C,,eO2C:ADM Data-Admin-Calendar
+O2C,,eO2C:ADM Data-Admin-Operator-ID
+O2C,,eO2C:ADM Data-Admin-StartingFlows
+O2C,,eO2C:ADM Data-Admin-WorkBasket
+O2C,,eO2C:ADM Data-Admin-WorkGroup
+O2C,,eO2C:ADM Data-Content-Image
+O2C,,eO2C:ADM Data-Corr-
+O2C,,eO2C:ADM Data-Decision-IH-
+O2C,,eO2C:ADM Data-EmailAccount
+O2C,,eO2C:ADM Data-Mobile-APNSToken
+O2C,,eO2C:ADM Data-Mobile-Certificate
+O2C,,eO2C:ADM Data-Mobile-GCMToken
+O2C,,eO2C:ADM Data-Party
+O2C,,eO2C:ADM Data-Portal
+O2C,,eO2C:ADM Data-Preference-Operator
+O2C,,eO2C:ADM Data-Report-Category
+O2C,,eO2C:ADM Data-Report-Shortcut
+O2C,,eO2C:ADM Data-Rule-Summary
+O2C,,eO2C:ADM Data-Social-References
+O2C,,eO2C:ADM Data-Social-Tag
+O2C,,eO2C:ADM Data-UniqueID
+O2C,,eO2C:ADM Data-WorkAttach-
+O2C,,eO2C:ADM History-
+O2C,,eO2C:ADM Index-
+O2C,,eO2C:ADM Link-Attachment
+O2C,,eO2C:ADM Link-Folder
+O2C,,eO2C:ADM Link-Tag
+O2C,,eO2C:ADM Link-TopCase
+O2C,,eO2C:ADM Log-DataAccessAudit
+O2C,,eO2C:ADM Pega-OfflinePack
+O2C,,eO2C:ADM PegaAccel-Task-GenerateApp
+O2C,,eO2C:ADM PegaAccel-Task-ProposeApp
+O2C,,eO2C:ADM PegaSocial
+O2C,,eO2C:ADM QUAD-O2C-Work
+O2C,,eO2C:ADM Rule-
+O2C,,eO2C:ADM Rule-Admin-Skill
+O2C,,eO2C:ADM Rule-Connect-JMS
+O2C,,eO2C:ADM Rule-Connect-MQ
+O2C,,eO2C:ADM Rule-Obj-Flow
+O2C,,eO2C:ADM Rule-Obj-FlowAction
+O2C,,eO2C:ADM Rule-Obj-List
+O2C,,eO2C:ADM Rule-Obj-ListView
+O2C,,eO2C:ADM Rule-Obj-Report-
+O2C,,eO2C:ADM Rule-Portal
+O2C,,eO2C:ADM Rule-PortalSkin
+O2C,,eO2C:ADM System-
+O2C,,eO2C:ADM System-Queue-
+O2C,,eO2C:ADM System-User-Dashboard
+O2C,,eO2C:ADM System-User-MyRules
+O2C,,eO2C:ADM System-User-Recents
+O2C,,eO2C:ADM System-User-Report-RecentReports
+O2C,,eO2C:ADM System-Work-Indexer
+O2C,,eO2C:ADM Work-
+O2C,1/1/2001,eO2C:CAM
+O2C,,eO2C:CAM @baseclass
+O2C,,eO2C:CAM Assign-
+O2C,,eO2C:CAM Code-
+O2C,,eO2C:CAM Data-
+O2C,,eO2C:CAM Data-AdHocNotes
+O2C,,eO2C:CAM Data-Admin-Calendar
+O2C,,eO2C:CAM Data-Admin-Operator-ID
+O2C,,eO2C:CAM Data-Admin-StartingFlows
+O2C,,eO2C:CAM Data-Admin-WorkBasket
+O2C,,eO2C:CAM Data-Admin-WorkGroup
+O2C,,eO2C:CAM Data-Content-Image
+O2C,,eO2C:CAM Data-Corr-
+O2C,,eO2C:CAM Data-Decision-IH-
+O2C,,eO2C:CAM Data-EmailAccount
+O2C,,eO2C:CAM Data-Mobile-APNSToken
+O2C,,eO2C:CAM Data-Mobile-Certificate
+O2C,,eO2C:CAM Data-Mobile-GCMToken
+O2C,,eO2C:CAM Data-Party
+O2C,,eO2C:CAM Data-Portal
+O2C,,eO2C:CAM Data-Preference-Operator
+O2C,,eO2C:CAM Data-Report-Category
+O2C,,eO2C:CAM Data-Report-Shortcut
+O2C,,eO2C:CAM Data-Rule-Summary
+O2C,,eO2C:CAM Data-Social-References
+O2C,,eO2C:CAM Data-Social-Tag
+O2C,,eO2C:CAM Data-UniqueID
+O2C,,eO2C:CAM Data-WorkAttach-
+O2C,,eO2C:CAM History-
+O2C,,eO2C:CAM Index-
+O2C,,eO2C:CAM Link-Attachment
+O2C,,eO2C:CAM Link-Folder
+O2C,,eO2C:CAM Link-Tag
+O2C,,eO2C:CAM Link-TopCase
+O2C,,eO2C:CAM Log-DataAccessAudit
+O2C,,eO2C:CAM Pega-OfflinePack
+O2C,,eO2C:CAM PegaAccel-Task-GenerateApp
+O2C,,eO2C:CAM PegaAccel-Task-ProposeApp
+O2C,,eO2C:CAM PegaSocial
+O2C,,eO2C:CAM Rule-
+O2C,,eO2C:CAM Rule-Admin-Skill
+O2C,,eO2C:CAM Rule-Connect-JMS
+O2C,,eO2C:CAM Rule-Connect-MQ
+O2C,,eO2C:CAM Rule-Obj-Flow
+O2C,,eO2C:CAM Rule-Obj-FlowAction
+O2C,,eO2C:CAM Rule-Obj-List
+O2C,,eO2C:CAM Rule-Obj-ListView
+O2C,,eO2C:CAM Rule-Obj-Report-
+O2C,,eO2C:CAM Rule-Portal
+O2C,,eO2C:CAM Rule-PortalSkin
+O2C,,eO2C:CAM System-
+O2C,,eO2C:CAM System-Queue-
+O2C,,eO2C:CAM System-User-Dashboard
+O2C,,eO2C:CAM System-User-MyRules
+O2C,,eO2C:CAM System-User-Recents
+O2C,,eO2C:CAM System-User-Report-RecentReports
+O2C,,eO2C:CAM System-Work-Indexer
+O2C,,eO2C:CAM Work-
+O2C,1/1/2001,eO2C:CSA
+O2C,,eO2C:CSA @baseclass
+O2C,,eO2C:CSA Assign-
+O2C,,eO2C:CSA Code-
+O2C,,eO2C:CSA Data-
+O2C,,eO2C:CSA Data-AdHocNotes
+O2C,,eO2C:CSA Data-Admin-Calendar
+O2C,,eO2C:CSA Data-Admin-Operator-ID
+O2C,,eO2C:CSA Data-Admin-StartingFlows
+O2C,,eO2C:CSA Data-Admin-WorkBasket
+O2C,,eO2C:CSA Data-Admin-WorkGroup
+O2C,,eO2C:CSA Data-Content-Image
+O2C,,eO2C:CSA Data-Corr-
+O2C,,eO2C:CSA Data-Decision-IH-
+O2C,,eO2C:CSA Data-EmailAccount
+O2C,,eO2C:CSA Data-Mobile-APNSToken
+O2C,,eO2C:CSA Data-Mobile-Certificate
+O2C,,eO2C:CSA Data-Mobile-GCMToken
+O2C,,eO2C:CSA Data-Party
+O2C,,eO2C:CSA Data-Portal
+O2C,,eO2C:CSA Data-Preference-Operator
+O2C,,eO2C:CSA Data-Report-Category
+O2C,,eO2C:CSA Data-Report-Shortcut
+O2C,,eO2C:CSA Data-Rule-Summary
+O2C,,eO2C:CSA Data-Social-References
+O2C,,eO2C:CSA Data-Social-Tag
+O2C,,eO2C:CSA Data-UniqueID
+O2C,,eO2C:CSA Data-WorkAttach-
+O2C,,eO2C:CSA History-
+O2C,,eO2C:CSA Index-
+O2C,,eO2C:CSA Link-Attachment
+O2C,,eO2C:CSA Link-Folder
+O2C,,eO2C:CSA Link-Tag
+O2C,,eO2C:CSA Link-TopCase
+O2C,,eO2C:CSA Log-DataAccessAudit
+O2C,,eO2C:CSA Pega-OfflinePack
+O2C,,eO2C:CSA PegaAccel-Task-GenerateApp
+O2C,,eO2C:CSA PegaAccel-Task-ProposeApp
+O2C,,eO2C:CSA PegaSocial
+O2C,,eO2C:CSA Rule-
+O2C,,eO2C:CSA Rule-Admin-Skill
+O2C,,eO2C:CSA Rule-Connect-JMS
+O2C,,eO2C:CSA Rule-Connect-MQ
+O2C,,eO2C:CSA Rule-Obj-Flow
+O2C,,eO2C:CSA Rule-Obj-FlowAction
+O2C,,eO2C:CSA Rule-Obj-List
+O2C,,eO2C:CSA Rule-Obj-ListView
+O2C,,eO2C:CSA Rule-Obj-Report-
+O2C,,eO2C:CSA Rule-Portal
+O2C,,eO2C:CSA Rule-PortalSkin
+O2C,,eO2C:CSA System-
+O2C,,eO2C:CSA System-Queue-
+O2C,,eO2C:CSA System-User-Dashboard
+O2C,,eO2C:CSA System-User-MyRules
+O2C,,eO2C:CSA System-User-Recents
+O2C,,eO2C:CSA System-User-Report-RecentReports
+O2C,,eO2C:CSA System-Work-Indexer
+O2C,,eO2C:CSA Work-
+O2C,1/1/2001,pxDecisioningClass O2C2
+O2C,1/1/2001,pxDecisioningClass eO2C
+O2C,1/1/2001,pyBaseNavigation
+O2C,1/1/2001,pyCaption CAMCorrectionsInfo
+O2C,1/1/2001,pyCaption Completed
+O2C,1/1/2001,pyCaption Contract
+O2C,1/1/2001,pyCaption Question
+O2C,1/1/2001,pyCaption Unable
+O2C,1/1/2001,pyCaption WaitingUntilAllCoveredAreResolved
+O2C,1/1/2001,pyCaseActionArea
+O2C,1/1/2001,pyCaseActionAreaButtons
+O2C,1/1/2001,pyCaseAssets
+O2C,1/1/2001,pyCaseAudit
+O2C,1/1/2001,pyCaseContent
+O2C,1/1/2001,pyCaseContent
+O2C,1/1/2001,pyCaseContent
+O2C,1/1/2001,pyCaseHeader
+O2C,1/1/2001,pyCaseManagementDefault
+O2C,1/1/2001,pyCaseManagementDefault
+O2C,1/1/2001,pyCaseManagerLinks
+O2C,1/1/2001,pyCaseOverview
+O2C,1/1/2001,pyCaseWorkerNavigation
+O2C,1/1/2001,pyDefault
+O2C,1/1/2001,pyDefault
+O2C,1/1/2001,pyDefault
+O2C,1/1/2001,pyDefault
+O2C,1/1/2001,pyDefaultReport
+O2C,1/1/2001,pyEnterCaseDetails
+O2C,1/1/2001,pyGetStageCountForCase
+O2C,1/1/2001,pyGetWorkBasket
+O2C,1/1/2001,pyHistoryMemo CreatePrdInstrCase
+O2C,1/1/2001,pyHistoryMemo CurrentOperatorUsesNonStandardOperatorSettings
+O2C,1/1/2001,pyHistoryMemo DataOnStartNotValid
+O2C,1/1/2001,pyHistoryMemo PrelimRoutedToAdjust
+O2C,1/1/2001,pyHistoryMemo PrelimWasSkipped
+O2C,1/1/2001,pyHistoryMemo ProdTicketRoutedToAdjust
+O2C,1/1/2001,pyHistoryMemo ReachedManualMaintenanceLevel
+O2C,1/1/2001,pyHistoryMemo SkippedPrdInstrCreation
+O2C,1/1/2001,pyHistoryMemo UnableToRetrieveIssueData
+O2C,1/1/2001,pyHistoryMemo WorkpartiesOnStartNotValid
+O2C,1/1/2001,pyInstanceList
+O2C,1/1/2001,pyInstanceList
+O2C,1/1/2001,pyInstanceList
+O2C,1/1/2001,pyInstanceList
+O2C,1/1/2001,pyInstanceList
+O2C,1/1/2001,pyMessageLabel ErrorOnIssueRetrieve
+O2C,1/1/2001,pyMessageLabel ErrorOnOrderCreate
+O2C,1/1/2001,pyMessageLabel ErrorOnOrderUpdate
+O2C,1/1/2001,pyMiniPartyDetails
+O2C,1/1/2001,pyMiniPartyDetails
+O2C,1/1/2001,pyMiniPartyDisplayDetailShow
+O2C,1/1/2001,pyMyCasesReport
+O2C,1/1/2001,pyMyCasesReport
+O2C,1/1/2001,pyPartyDisplaySummaryDetails
+O2C,1/1/2001,pyPartyDisplaySummaryDetails
+O2C,1/1/2001,pyPopulateCaseContents
+O2C,1/1/2001,pyPortalHeader
+O2C,1/1/2001,pyPreGridUpdate
+O2C,1/1/2001,pyPreGridUpdate
+O2C,1/1/2001,pyRelatedCasesByCase
+O2C,1/1/2001,pyRelatedCasesByCase
+O2C,1/1/2001,pyReportEditorHeader
+O2C,1/1/2001,pyShowMyCases
+O2C,1/1/2001,pyShowMyCases7
+O2C,1/1/2001,pyShowMyCasesActionMenu
+O2C,1/1/2001,pyStageName
+O2C,1/1/2001,pyStartCase
+O2C,1/1/2001,pyStartCase
+O2C,1/1/2001,pyStatusWork Pending-Adjustment
+O2C,1/1/2001,pyStatusWork Pending-Corrections
+O2C,1/1/2001,pyStatusWork Pending-Instructions
+O2C,1/1/2001,pyStatusWork Pending-Verification
+O2C,1/1/2001,pyStatusWork Resolved-Lost
+O2C,1/1/2001,pyToolTip EarliestPressDate
+O2C,1/1/2001,pyToolTip HasChildrenCases
+O2C,1/1/2001,pyUserWorkList
+O2C,1/1/2001,pyWorkBasketDetail
+O2C,1/1/2001,webwb quad_data_employeerolepreparewp4ticketcase20171214t135621_858_gmt jpg
+O2C,1/1/2001,webwb quad_data_employeerolepreparewp4ticketcase20171214t142208_725_gmt jpg
+O2C,1/1/2001,webwb quad_data_employeerolepreparewps4ordercase20171229t110903_554_gmt jpg
+O2C,1/1/2001,webwb quad_data_employeerolepreparewps4prdinstrcase20171214t185146_494_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_ordercontinueafterprepareexception20171223t222106_407_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderhandleresolverevoked20171223t210400_039_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderpostwaitforprdinstr20171213t111905_792_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderpostwaitforprdinstr20180110t130950_784_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderpostwaitforprep20171213t103654_880_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderpreparecasedata20180102t100727_393_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderprepareforwait20171208t110149_025_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderprocessing20171213t102126_594_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderprocessing20180119t141842_761_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderpystartcase20171208t141946_606_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_ordersplitwait20171213t104304_990_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderupdatefromexternal20171208t110447_811_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderupdatefromexternal20180109t115120_002_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderwaitandactforprdinstr20171214t122916_360_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_orderwaiting20171208t110846_255_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrcontinueafterprepareexception20171223t221958_840_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrcorrectlabels20180124t081119_286_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrhandleresolverevoked20171223t212028_668_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrpickowner20180103t141222_577_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrprelimstart20171207t092959_072_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrprelimverify20171221t154455_873_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrpreparecasedata20171207t093415_275_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrpreparelabels20180124t074143_089_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrprintorder20171207t093341_141_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrprodticketstart20171207t093140_593_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrprodticketstart20180109t100525_212_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrprodticketverify20171207t104639_577_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_work_prdinstrpystartcase20171207t150534_318_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_workaddworkpartywitherrorhandling20171227t113956_592_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_workcontinueafterprepareexception20171223t221828_741_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_workhandleprepareexception20171222t164221_993_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_workhandleresolverevoked20171223t191130_471_gmt jpg
+O2C,1/1/2001,webwb quad_o2c_workresolvecase20171222t220449_304_gmt jpg
+QG,,QG
+QG,,QG
+QG,,QG 01-01-01
+QG,,QG-Data
+QG,,QG-FW
+QGEnt,1/1/2001,.MaintIsNeeded 
+QGEnt,1/1/2001,.NameAndID 
+QGEnt,1/1/2001,.PlannerWebLink 
+QGEnt,1/1/2001,.TitleIssueSentence 
+QGEnt,1/1/2001,.VaxUserNameLower 
+QGEnt,1/1/2001,ADFS
+QGEnt,1/1/2001,ActiveIndicator
+QGEnt,1/1/2001,AddWorkObjectPartyForcedByUri
+QGEnt,1/1/2001,AddWorkPartyFromEmployee
+QGEnt,1/1/2001,AddWorkPartyFromEmployee
+QGEnt,1/1/2001,AddWorkPartyFromOperatorEmployee
+QGEnt,1/1/2001,AdminEmailAddress
+QGEnt,1/1/2001,AllQUAD ALL
+QGEnt,1/1/2001,AllQUAD ALL
+QGEnt,1/1/2001,AllQUAD ALL
+QGEnt,1/1/2001,ApplyQGSystemSettings
+QGEnt,1/1/2001,AttachedPriceScheduleId
+QGEnt,1/1/2001,AuthorizedPhotoIndicator
+QGEnt,1/1/2001,BusinessTitleName
+QGEnt,1/1/2001,CAMServiceSync
+QGEnt,1/1/2001,CalculatedSLADeadline
+QGEnt,1/1/2001,CalculatedSLAGoal
+QGEnt,1/1/2001,CaseWhenNull
+QGEnt,1/1/2001,CheckForCustomWarnings
+QGEnt,1/1/2001,ClearProblemMarker
+QGEnt,1/1/2001,CompanyCoveredFlag
+QGEnt,1/1/2001,CompanyNumber
+QGEnt,1/1/2001,ComplexityLevel
+QGEnt,1/1/2001,ContractStatus
+QGEnt,1/1/2001,ContractStatusCode
+QGEnt,1/1/2001,CountryCode
+QGEnt,1/1/2001,D_EmployeeRoles4TitleBrief
+QGEnt,1/1/2001,D_EmployeeRoles4TitleFull
+QGEnt,1/1/2001,D_IssueBrief
+QGEnt,1/1/2001,D_IssueJobs
+QGEnt,1/1/2001,D_Operators4Org
+QGEnt,1/1/2001,D_QGSystemSettings
+QGEnt,1/1/2001,D_QuadEmployee
+QGEnt,1/1/2001,D_TitleProfile
+QGEnt,1/1/2001,DayWithTimeZone
+QGEnt,1/1/2001,DaysInQueue
+QGEnt,1/1/2001,DaysToForecast
+QGEnt,1/1/2001,DaysToRetrievePlannerDataForOrdersCreation
+QGEnt,1/1/2001,DepartmentNumber
+QGEnt,1/1/2001,EarliestOptionTimestamp
+QGEnt,1/1/2001,EarliestPressDate
+QGEnt,1/1/2001,EarliestPressDate
+QGEnt,1/1/2001,EarliestPressDateTime
+QGEnt,1/1/2001,EarliestPressDateTime
+QGEnt,1/1/2001,Email
+QGEnt,1/1/2001,EmailActions
+QGEnt,1/1/2001,Employee
+QGEnt,1/1/2001,EmployeeID
+QGEnt,1/1/2001,EmployeeRoles
+QGEnt,1/1/2001,EndpointCRMV
+QGEnt,1/1/2001,EndpointEMP
+QGEnt,1/1/2001,EndpointLdc
+QGEnt,1/1/2001,EndpointNOM
+QGEnt,1/1/2001,EndpointO2c
+QGEnt,1/1/2001,EventDate
+QGEnt,1/1/2001,ExcessiveActivitySteps
+QGEnt,1/1/2001,ExchangeProfileName
+QGEnt,1/1/2001,ExternalAssignmentsByCase
+QGEnt,1/1/2001,FirstName
+QGEnt,1/1/2001,FoundersYear
+QGEnt,1/1/2001,FullName
+QGEnt,1/1/2001,GenderCode
+QGEnt,1/1/2001,GetIssueJobs
+QGEnt,1/1/2001,GetTitleProfile
+QGEnt,1/1/2001,GetTitleProfileSimulation
+QGEnt,1/1/2001,HasPricingImageAndTooltip
+QGEnt,1/1/2001,HomePhoneNumber
+QGEnt,1/1/2001,ID
+QGEnt,1/1/2001,InformalName
+QGEnt,1/1/2001,IsBetaServer
+QGEnt,1/1/2001,IsProblemMarkerSet
+QGEnt,1/1/2001,IsProdLevelBeta
+QGEnt,1/1/2001,IsProdLevelProduction
+QGEnt,1/1/2001,IsProdLevelProduction
+QGEnt,1/1/2001,IsProductionServer
+QGEnt,1/1/2001,IsQuadEmployeeCalledByName
+QGEnt,1/1/2001,IssueID
+QGEnt,1/1/2001,JBP
+QGEnt,1/1/2001,JobNumber
+QGEnt,1/1/2001,JobNumber
+QGEnt,1/1/2001,JobOptions
+QGEnt,1/1/2001,JobTitleID
+QGEnt,1/1/2001,JobTitleName
+QGEnt,1/1/2001,Jobs
+QGEnt,1/1/2001,KeyDatesSentence
+QGEnt,1/1/2001,KeyOrderElements
+QGEnt,1/1/2001,LDCPaper
+QGEnt,1/1/2001,LastDayChangePaper
+QGEnt,1/1/2001,LastName
+QGEnt,1/1/2001,LastRefreshedDate
+QGEnt,1/1/2001,LastWorkedDate
+QGEnt,1/1/2001,LatestOptionTimestamp
+QGEnt,1/1/2001,LatestOptionTimestampCSR
+QGEnt,1/1/2001,LdcAckTimestamp
+QGEnt,1/1/2001,LeaveIndicator
+QGEnt,1/1/2001,LicenseTypeInvocation
+QGEnt,1/1/2001,Location
+QGEnt,1/1/2001,LocationNumber
+QGEnt,1/1/2001,LogOff
+QGEnt,1/1/2001,ManagementCode
+QGEnt,1/1/2001,ManagementDate
+QGEnt,1/1/2001,MastersYear
+QGEnt,1/1/2001,MiddleInitial
+QGEnt,1/1/2001,MixedCaseFirstName
+QGEnt,1/1/2001,MixedCaseLastName
+QGEnt,1/1/2001,NOMDates
+QGEnt,1/1/2001,Name
+QGEnt,1/1/2001,Name
+QGEnt,1/1/2001,NameAndID
+QGEnt,1/1/2001,NewPartyFromEmployee
+QGEnt,1/1/2001,NewPartyFromEmployee
+QGEnt,1/1/2001,NewPartyFromUserName
+QGEnt,1/1/2001,NoID
+QGEnt,1/1/2001,NonContractIndicator
+QGEnt,1/1/2001,Number
+QGEnt,1/1/2001,O2CfilterLDC
+QGEnt,1/1/2001,O2CfilterPRESS
+QGEnt,1/1/2001,OnPressMonthYear
+QGEnt,1/1/2001,OperatorExists
+QGEnt,1/1/2001,Operators4Org
+QGEnt,1/1/2001,OptionCreatedTimestamp
+QGEnt,1/1/2001,OptionStatusCode
+QGEnt,1/1/2001,Options
+QGEnt,1/1/2001,Options
+QGEnt,1/1/2001,PageFileDueDate
+QGEnt,1/1/2001,ParseIntoTaglist CSV
+QGEnt,1/1/2001,PayClassCode
+QGEnt,1/1/2001,PegaOOB S ALL
+QGEnt,1/1/2001,PegaOOB S ALL AgeByAssignee
+QGEnt,1/1/2001,PegaOOB S ALL AgeByAssigneeByWorkType
+QGEnt,1/1/2001,PegaOOB S ALL AgeByWorkQueue
+QGEnt,1/1/2001,PegaOOB S ALL AgeByWorklistTask
+QGEnt,1/1/2001,PegaOOB S ALL AgeOpenByClass
+QGEnt,1/1/2001,PegaOOB S ALL AgeOpenByOrgUnit
+QGEnt,1/1/2001,PegaOOB S ALL AgeResolvedByClass
+QGEnt,1/1/2001,PegaOOB S ALL AgeResolvedByResolverOrg
+QGEnt,1/1/2001,PegaOOB S ALL ArrivalsPastEightWeeksIC
+QGEnt,1/1/2001,PegaOOB S ALL AverageElapsedTimePerStatus
+QGEnt,1/1/2001,PegaOOB S ALL CaseVolume
+QGEnt,1/1/2001,PegaOOB S ALL DailyProcessResolution
+QGEnt,1/1/2001,PegaOOB S ALL DetailedList
+QGEnt,1/1/2001,PegaOOB S ALL EffortCompletedByClass
+QGEnt,1/1/2001,PegaOOB S ALL EffortProgressByOrgUnit
+QGEnt,1/1/2001,PegaOOB S ALL EffortProgressByOrganization
+QGEnt,1/1/2001,PegaOOB S ALL ElapsedStatusTrend
+QGEnt,1/1/2001,PegaOOB S ALL EnteredbyMe
+QGEnt,1/1/2001,PegaOOB S ALL ExternalAssignmentsCount
+QGEnt,1/1/2001,PegaOOB S ALL GoalsDeadlinesByStep
+QGEnt,1/1/2001,PegaOOB S ALL OpenCountByStatusForWorkPool
+QGEnt,1/1/2001,PegaOOB S ALL ResolvedbyMe
+QGEnt,1/1/2001,PegaOOB S ALL StepDuration
+QGEnt,1/1/2001,PegaOOB S ALL TaskTimeliness
+QGEnt,1/1/2001,PegaOOB S ALL TimePerStage
+QGEnt,1/1/2001,PegaOOB S ALL TimeSpentInStep
+QGEnt,1/1/2001,PegaOOB S ALL UserTimeliness
+QGEnt,1/1/2001,PegaOOB S ALL WeeklyThroughput
+QGEnt,1/1/2001,PegaOOB S ALL pyActionPerformanceTime
+QGEnt,1/1/2001,PegaOOB S ALL pyAgeByFlowAssignment
+QGEnt,1/1/2001,PegaOOB S ALL pyFlowActionAnalysis
+QGEnt,1/1/2001,PegaOOB S ALL pyPerformanceDetail
+QGEnt,1/1/2001,PegaOOB S ALL pyProcessStepDuration
+QGEnt,1/1/2001,PegaOOB S ALL pyTaskDuration
+QGEnt,1/1/2001,PegaOOB S ALL pyTaskPerformance
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL ActionPerformanceTime
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeByAssignee
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeByAssigneeByWorkType
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeByFlowAssignment
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeByWorkQueue
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeByWorklistTask
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeOpenByClass
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeOpenByOrgUnit
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeResolvedByClass
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AgeResolvedByResolverOrg
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL ArrivalsPastEightWeeksIC
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL ArrivalsPastEightWeeksSV
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL AverageElapsedTimePerStatus
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL CaseVolume
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL DailyArrivalsSV
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL DailyProcessResolution
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL DetailedList
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL EffortCompletedByClass
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL EffortProgressByOrgUnit
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL EffortProgressByOrganization
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL ElapsedStatusTrend
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL EnteredbyMe
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL ExternalAssignmentsCount
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL FlowActionAnalysis
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL GoalsDeadlinesByStep
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL OpenCaseTimeliness
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL OpenCountByStatusForWorkPool
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL PerformanceDetail
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL PipelineCompletedByClass
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL ProcessStepDuration
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL ResolvedbyMe
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL StepDuration
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL TaskDuration
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL TaskPerformance
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL TaskTimeliness
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL TimePerStage
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL TimeSpentInStep
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL UserTimeliness
+QGEnt,1/1/2001,PegaOOTBForCSR S ALL WeeklyThroughput
+QGEnt,1/1/2001,PersonnelStatus
+QGEnt,1/1/2001,PersonnelType
+QGEnt,1/1/2001,PhoneExtension
+QGEnt,1/1/2001,PlannerUrl
+QGEnt,1/1/2001,PlannerWebLink
+QGEnt,1/1/2001,PlannerWebLinkHTML
+QGEnt,1/1/2001,PostPrepareWorkparties
+QGEnt,1/1/2001,PrInstrSrcType
+QGEnt,1/1/2001,PrePrepareWorkparties
+QGEnt,1/1/2001,PrepAssignment
+QGEnt,1/1/2001,PrepStatus
+QGEnt,1/1/2001,PrepareEmployeeRoles4TitleBriefRequest
+QGEnt,1/1/2001,PrepareEmployeeRoles4TitleFullRequest
+QGEnt,1/1/2001,PrepareIssueBriefRequest
+QGEnt,1/1/2001,PrepareRequestADFSSecurityToken
+QGEnt,1/1/2001,PressDateEndForMasterOrderService
+QGEnt,1/1/2001,PressDateStartForMasterOrderService
+QGEnt,1/1/2001,ProblemMarker
+QGEnt,1/1/2001,ProcessADFSSecurityTokenResponse
+QGEnt,1/1/2001,ProcessEmployeeRoles4TitleBriefResponse
+QGEnt,1/1/2001,ProcessEmployeeRoles4TitleFullResponse
+QGEnt,1/1/2001,ProcessGetEmployeeResponse
+QGEnt,1/1/2001,ProcessIssueBriefResponse
+QGEnt,1/1/2001,ProcessOperators4OrgResponse
+QGEnt,1/1/2001,ProdCompleteDateTime
+QGEnt,1/1/2001,ProductionDate
+QGEnt,1/1/2001,Profile
+QGEnt,,QGEnt
+QGEnt,,QGEnt 01-01-01
+QGEnt,,QGEnt 01.01
+QGEnt,1/1/2001,QGSystemSettings
+QGEnt,1/1/2001,QUAD ADFSEndpoint
+QGEnt,1/1/2001,QUAD ADFSSecurityTokenAuth
+QGEnt,1/1/2001,QUAD ADFSSecurityTokenReferencePrefix
+QGEnt,1/1/2001,QUAD Iconusd jpg
+QGEnt,1/1/2001,QUAD JBPEndpoint
+QGEnt,1/1/2001,QUAD QuadBillInProcessIcon ico
+QGEnt,1/1/2001,QUAD QuadLogo jpg
+QGEnt,1/1/2001,QUAD_Data 0924
+QGEnt,1/1/2001,QUAD_Ent 0301
+QGEnt,1/1/2001,Quad
+QGEnt,1/1/2001,QuadCaseManagerPortal
+QGEnt,1/1/2001,QuadLocationCode
+QGEnt,1/1/2001,QuadLocationName
+QGEnt,1/1/2001,RemoteUsername
+QGEnt,1/1/2001,RentalAllowedFlag
+QGEnt,1/1/2001,RoleID
+QGEnt,1/1/2001,RoleName
+QGEnt,1/1/2001,SSR
+QGEnt,1/1/2001,ScheduledLocation
+QGEnt,1/1/2001,SecurityTokenAuth
+QGEnt,1/1/2001,SecurityTokenReferencePrefix
+QGEnt,1/1/2001,SelectedForReview
+QGEnt,1/1/2001,SetEnv4JBP
+QGEnt,1/1/2001,ShiftNumber
+QGEnt,1/1/2001,SkipMaintenance
+QGEnt,1/1/2001,SpecID
+QGEnt,1/1/2001,StartDate
+QGEnt,1/1/2001,StateOrProvinceCode
+QGEnt,1/1/2001,StatusCode
+QGEnt,1/1/2001,StatusName
+QGEnt,1/1/2001,SubShiftCode
+QGEnt,1/1/2001,SubmitID
+QGEnt,1/1/2001,SuffixName
+QGEnt,1/1/2001,SupervisorCode
+QGEnt,1/1/2001,SupervisorEmployeeID
+QGEnt,1/1/2001,TagList
+QGEnt,1/1/2001,TempToHireFlag
+QGEnt,1/1/2001,TenBusinessDays
+QGEnt,1/1/2001,TerminationDate
+QGEnt,1/1/2001,TimeOutCRMV
+QGEnt,1/1/2001,TimeOutExchange
+QGEnt,1/1/2001,TimeOutO2C
+QGEnt,1/1/2001,Title
+QGEnt,1/1/2001,TitleCode
+QGEnt,1/1/2001,TitleCode
+QGEnt,1/1/2001,TitleCode
+QGEnt,1/1/2001,TitleIssueSentence
+QGEnt,1/1/2001,TitleName
+QGEnt,1/1/2001,TourStopQuadCalendar
+QGEnt,1/1/2001,TourStopQuadDashboard
+QGEnt,1/1/2001,TourStopQuadIntro
+QGEnt,1/1/2001,TourStopQuadMyWork
+QGEnt,1/1/2001,TourStopQuadNewCase
+QGEnt,1/1/2001,TourStopQuadTheEnd
+QGEnt,1/1/2001,TourStopQuadUserMenu
+QGEnt,1/1/2001,TranslateQuadLocationCodesToNames
+QGEnt,1/1/2001,VaxUserName
+QGEnt,1/1/2001,VaxUserNameLower
+QGEnt,1/1/2001,Web-Session-Return
+QGEnt,1/1/2001,addWorkObjectParty
+QGEnt,1/1/2001,cmicons BlackDownArrowIcon png
+QGEnt,1/1/2001,cmicons BullsEyeIcon png
+QGEnt,1/1/2001,cmicons ClockIcon png
+QGEnt,1/1/2001,cmicons CoffeeIcon png
+QGEnt,1/1/2001,cmicons FinishFlagsIcon png
+QGEnt,1/1/2001,cmicons FlagIcon png
+QGEnt,1/1/2001,cmicons GlassesIcon png
+QGEnt,1/1/2001,cmicons MagnifyIcon png
+QGEnt,1/1/2001,cmicons MicrophoneIcon png
+QGEnt,1/1/2001,cmicons NotepadIcon png
+QGEnt,1/1/2001,cmicons PaperClipIcon png
+QGEnt,1/1/2001,cmicons PhoneIcon png
+QGEnt,1/1/2001,cmicons RollerIcon png
+QGEnt,1/1/2001,cmicons SquiggleIcon png
+QGEnt,1/1/2001,cmicons WrenchIcon png
+QGEnt,1/1/2001,pyActionPrompt HasPricing
+QGEnt,1/1/2001,pyAgeOpenByClass
+QGEnt,1/1/2001,pyButtonLabel Show All
+QGEnt,1/1/2001,pyCMWorkStatus
+QGEnt,1/1/2001,pyCaption CanNotOpenAssignment
+QGEnt,1/1/2001,pyCaption Case/Supporting Type
+QGEnt,1/1/2001,pyCaption Operator
+QGEnt,1/1/2001,pyCaption Operator from the system
+QGEnt,1/1/2001,pyCaption Operator from the work group
+QGEnt,1/1/2001,pyCaption Showing
+QGEnt,1/1/2001,pyCaption Showing all reports
+QGEnt,1/1/2001,pyCaption Showing recent reports
+QGEnt,1/1/2001,pyCaption Summary for
+QGEnt,1/1/2001,pyCaption Work type
+QGEnt,1/1/2001,pyCaseActionArea
+QGEnt,1/1/2001,pyCaseBody
+QGEnt,1/1/2001,pyCaseContentDetails
+QGEnt,1/1/2001,pyCaseContentDetails
+QGEnt,1/1/2001,pyCaseHeader
+QGEnt,1/1/2001,pyCaseManager7
+QGEnt,1/1/2001,pyCaseManager7
+QGEnt,1/1/2001,pyCaseManagerPrepareDefaultDashboard
+QGEnt,1/1/2001,pyCaseMetrics S ALL
+QGEnt,1/1/2001,pyCaseNarrativeWrapper
+QGEnt,1/1/2001,pyCaseOverview
+QGEnt,1/1/2001,pyCaseSummary
+QGEnt,1/1/2001,pyHistoryMemo ItemSaved
+QGEnt,1/1/2001,pyMessageLabel AnotherRequestBeingProcessed
+QGEnt,1/1/2001,pyMessageLabel DenyExternalHeader
+QGEnt,1/1/2001,pyMessageLabel DenyExternalReplayHeader
+QGEnt,1/1/2001,pyMessageLabel DenyExternalReplayTitle
+QGEnt,1/1/2001,pyMessageLabel DenyExternalTitle
+QGEnt,1/1/2001,pyMessageLabel RequestSatisfiedOrExpired
+QGEnt,1/1/2001,pyMiniPartyDetails
+QGEnt,1/1/2001,pyMonitorAssignments S ALL
+QGEnt,1/1/2001,pyMyCasesWidgetGrids2
+QGEnt,1/1/2001,pyOpenCases S ALL
+QGEnt,1/1/2001,pyPerformanceAnalysis S ALL
+QGEnt,1/1/2001,pyPerformer Agent(System-Queue-FlowDependency.pzProcessFlowDependency)
+QGEnt,1/1/2001,pyPerformer Agent(System-Queue-FlowDependency.pzProcessFlowDependency)
+QGEnt,1/1/2001,pyPerformer Agent(System-Queue-FlowDependency.pzProcessFlowDependency)
+QGEnt,1/1/2001,pyPopulateCaseContents
+QGEnt,1/1/2001,pyPortalHeader
+QGEnt,1/1/2001,pyServiceLevelPerformance S ALL
+QGEnt,1/1/2001,pyStatusWork Resolved-ImportError
+QGEnt,1/1/2001,pyStatusWork Resolved-Outdated
+QGEnt,1/1/2001,pyStepPerformance S ALL
+QGEnt,1/1/2001,pyTransferAssignment
+QGEnt,1/1/2001,pyTransferAssignment
+QGEnt,1/1/2001,pyUserName Agent(Work-ProcessEmail.pyProcessEmailRequest)
+QGEnt,1/1/2001,pyWorkActionsPerform
+QGEnt,1/1/2001,pyWorkAnalysis S ALL
+QGEnt,1/1/2001,pyWorkListWidgetGrids
+QGEnt,1/1/2001,pyWorkMonitoring S ALL
+QGEnt,1/1/2001,pyWorkMonitoring S ALL pyAgeOpenByClass1
+QGEnt,1/1/2001,pzStudioHeader
+QGEnt,1/1/2001,webwb Launchiconbluesmall png
+QGEnt,1/1/2001,webwb Pega7Green svg
+QGEnt,1/1/2001,webwb Pega7Red svg
+QGEnt,1/1/2001,webwb QuadButtonStyles css
+QGEnt,1/1/2001,webwb QuadStyleOverrides css
+QGEnt,1/1/2001,webwb py-enduser71-workarea-overrides css
+QGEnt,1/1/2001,webwb py-responsive-overrides css
+QGEnt,1/1/2001,webwb quad_data_employeeaddworkpartyfromemployee20171206t170650_798_gmt jpg
+QGEntInt,1/1/2004,ABANumber
+QGEntInt,1/1/2004,Account
+QGEntInt,1/1/2004,Account
+QGEntInt,1/1/2004,AccountCategory
+QGEntInt,1/1/2004,AccountId
+QGEntInt,1/1/2004,AccountId
+QGEntInt,1/1/2004,AccountNumber
+QGEntInt,1/1/2004,AccountRole
+QGEntInt,1/1/2001,Action MapFrom
+QGEntInt,1/1/2004,ActivatedTimestamp
+QGEntInt,1/1/2004,Active
+QGEntInt,1/1/2003,ActiveIndicator
+QGEntInt,1/1/2004,ActiveIndicator
+QGEntInt,1/1/2002,AdditionalInstructions
+QGEntInt,1/1/2002,AdditionalThousandWeight
+QGEntInt,1/1/2001,Address
+QGEntInt,1/1/2004,Address1
+QGEntInt,1/1/2004,Address2
+QGEntInt,1/1/2004,AirOcean
+QGEntInt,1/1/2003,AlterEmpIdHash
+QGEntInt,1/1/2003,AlternateEmployeeId
+QGEntInt,1/1/2003,AlternateIdDto
+QGEntInt,1/1/2002,Answer
+QGEntInt,1/1/2002,AnswerId
+QGEntInt,1/1/2001,AppliesToEndpointAddress
+QGEntInt,1/1/2004,ApprovalMethod
+QGEntInt,1/1/2004,ApprovedForQgPaper
+QGEntInt,1/1/2004,ApprovedForQgPaperBy
+QGEntInt,1/1/2004,ApprovedForQgPaperDate
+QGEntInt,1/1/2002,AssembledComponentIds
+QGEntInt,1/1/2002,AssemblyVersionComponents
+QGEntInt,1/1/2001,Authorization
+QGEntInt,1/1/2003,AuthorizedPhotoIndicator
+QGEntInt,1/1/2004,AvailableCustomerIds
+QGEntInt,1/1/2002,BasisWeight
+QGEntInt,1/1/2002,BasisWeight
+QGEntInt,1/1/2004,BillingStatus
+QGEntInt,1/1/2004,BillingStatusCode
+QGEntInt,1/1/2004,BillingStatusErpCode
+QGEntInt,1/1/2004,BillingStatusName
+QGEntInt,1/1/2001,BinarySecurityToken
+QGEntInt,1/1/2002,BindTypeId
+QGEntInt,1/1/2002,BindTypeRollWidth
+QGEntInt,1/1/2002,BindTypeRollWidths
+QGEntInt,1/1/2004,BookDirectorySalesOffice
+QGEntInt,1/1/2004,BookDirectorySalesPerson
+QGEntInt,1/1/2004,BookDirectoryStatus
+QGEntInt,1/1/2002,BrandId
+QGEntInt,1/1/2002,BrandName
+QGEntInt,1/1/2004,BrownAccountId
+QGEntInt,1/1/2004,BrownSubAccountId
+QGEntInt,1/1/2004,BsonId
+QGEntInt,1/1/2004,BusinessAreaManager
+QGEntInt,1/1/2002,BusinessAreaTechnical
+QGEntInt,1/1/2002,BusinessAreaTechnicalCode
+QGEntInt,1/1/2002,BusinessAreaTechnicalName
+QGEntInt,1/1/2003,BusinessTitleName
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,BusinessUnit
+QGEntInt,1/1/2004,CSTarget
+QGEntInt,1/1/2001,CamServiceSync
+QGEntInt,1/1/2004,CanadaSalesOffice
+QGEntInt,1/1/2004,CanadaSalesPerson
+QGEntInt,1/1/2004,CanadaStatus
+QGEntInt,1/1/2004,CatalogMailing
+QGEntInt,1/1/2004,Category
+QGEntInt,1/1/2004,CellPhoneNumber
+QGEntInt,1/1/2004,CellPhoneNumber
+QGEntInt,1/1/2002,ChildVersionId
+QGEntInt,1/1/2004,City
+QGEntInt,1/1/2004,City
+QGEntInt,1/1/2003,CityName
+QGEntInt,1/1/2002,ClassId
+QGEntInt,1/1/2002,CleanseAssignment
+QGEntInt,1/1/2002,CleanseStatus
+QGEntInt,1/1/2002,CleanseStatusCode
+QGEntInt,1/1/2004,ClientToClient
+QGEntInt,1/1/2004,CnNumber
+QGEntInt,1/1/2002,CoatingCode
+QGEntInt,1/1/2004,Code
+QGEntInt,1/1/2002,ColorCount
+QGEntInt,1/1/2003,CompanyCoveredFlag
+QGEntInt,1/1/2003,CompanyNumber
+QGEntInt,1/1/2003,CompanyNumber
+QGEntInt,1/1/2004,CompanyVRegistrationNumber
+QGEntInt,1/1/2001,ComplexityLevel
+QGEntInt,1/1/2002,ComponentId
+QGEntInt,1/1/2002,ComponentId
+QGEntInt,1/1/2002,Components
+QGEntInt,1/1/2002,Config
+QGEntInt,1/1/2002,ConfigId
+QGEntInt,1/1/2002,Configs
+QGEntInt,1/1/2002,Configs
+QGEntInt,1/1/2002,Consumption
+QGEntInt,1/1/2002,ContractStatus
+QGEntInt,1/1/2004,ContractType
+QGEntInt,1/1/2004,ContractedExchangeRate
+QGEntInt,1/1/2004,ContractedExchangeRateNotes
+QGEntInt,1/1/2004,Country
+QGEntInt,1/1/2003,CountryCode
+QGEntInt,1/1/2004,CountryRegion
+QGEntInt,1/1/2004,CreatedBy
+QGEntInt,1/1/2004,CreatedBy
+QGEntInt,1/1/2004,CreatedBy
+QGEntInt,1/1/2004,CreatedBy
+QGEntInt,1/1/2004,CreatedBy
+QGEntInt,1/1/2004,CreatedOn
+QGEntInt,1/1/2004,CreatedOn
+QGEntInt,1/1/2004,CreatedOn
+QGEntInt,1/1/2004,CreatedOn
+QGEntInt,1/1/2004,CreatedOn
+QGEntInt,1/1/2004,CreativeSalesOffice
+QGEntInt,1/1/2004,CreativeSalesPerson
+QGEntInt,1/1/2004,CreativeStatus
+QGEntInt,1/1/2004,CreditId
+QGEntInt,1/1/2004,CreditPrescreen
+QGEntInt,1/1/2004,CultureName
+QGEntInt,1/1/2004,CultureName
+QGEntInt,1/1/2004,Currency
+QGEntInt,1/1/2004,CustomerClass
+QGEntInt,1/1/2002,CustomerDirectedBuy
+QGEntInt,1/1/2004,CustomerId
+QGEntInt,1/1/2004,CustomerName
+QGEntInt,1/1/2004,CustomerSold
+QGEntInt,1/1/2002,Cutoff
+QGEntInt,1/1/2002,CutoffLength
+QGEntInt,1/1/2002,CutoffNumber
+QGEntInt,1/1/2002,CutoffNumber
+QGEntInt,1/1/2002,CycleID
+QGEntInt,1/1/2001,D_ADFSSecurityToken
+QGEntInt,1/1/2001,D_TitleProfileInt
+QGEntInt,1/1/2002,DateType
+QGEntInt,1/1/2002,DateTypeID
+QGEntInt,1/1/2004,Default GetAccountByTitleCodeParametersResponse
+QGEntInt,1/1/2003,Default GetAllPagedParametersResponse
+QGEntInt,1/1/2003,Default GetAlternateEmployeeIdsParametersResponse
+QGEntInt,1/1/2004,Default GetBasicTitleByTitleCodeParametersResponse
+QGEntInt,1/1/2004,Default GetBasicTitleByTitleCodesParametersResponse
+QGEntInt,1/1/2003,Default GetByFilterPagedParametersResponse
+QGEntInt,1/1/2003,Default GetByFilterParametersResponse
+QGEntInt,1/1/2003,Default GetByIdParametersResponse
+QGEntInt,1/1/2003,Default GetByIdsParametersResponse
+QGEntInt,1/1/2003,Default GetByUsernamesParametersResponse
+QGEntInt,1/1/2002,Default GetConfigRollWidthCalculationByOptionComponentParan1187760188
+QGEntInt,1/1/2002,Default GetConfigRollWidthCalculationParametersResponse
+QGEntInt,1/1/2003,Default GetDatabasesWildcardCharactersParametersResponse
+QGEntInt,1/1/2003,Default GetEmployeeIdByProgressIdParametersResponse
+QGEntInt,1/1/2003,Default GetEnumerationValueFromDatabaseLiteralParametersResponse
+QGEntInt,1/1/2002,Default GetFullIssueParametersResponse
+QGEntInt,1/1/2003,Default GetJobTitleByIdParametersResponse
+QGEntInt,1/1/2004,Default GetMarketClassesParametersResponse
+QGEntInt,1/1/2003,Default GetMaxSupportedPageSizeParametersResponse
+QGEntInt,1/1/2002,Default GetOptionsParametersResponse
+QGEntInt,1/1/2002,Default GetOrderAreasParametersResponse
+QGEntInt,1/1/2002,Default GetPriceScheduleTemplateEquipmentConfigsParametersResponse
+QGEntInt,1/1/2002,Default GetProductionPlanningQueueItemsByIssueIdOrJobNumberP484624684
+QGEntInt,1/1/2002,Default GetProductionPlanningQueueItemsBySearchParametersResponse
+QGEntInt,1/1/2003,Default GetSecureAllPagedParametersResponse
+QGEntInt,1/1/2003,Default GetSecureByFilterPagedParametersResponse
+QGEntInt,1/1/2003,Default GetSecureByIdParametersResponse
+QGEntInt,1/1/2003,Default GetSecureByIdsParametersResponse
+QGEntInt,1/1/2003,Default GetSecureByUsernamesParametersResponse
+QGEntInt,1/1/2004,Default GetServiceStaffForTitleParametersResponse
+QGEntInt,1/1/2004,Default GetServiceStaffForTitleWithBusinessUnitParametersResponse
+QGEntInt,1/1/2004,Default GetServiceStaffForTitlesParametersResponse
+QGEntInt,1/1/2002,Default GetSizeClassesParametersResponse
+QGEntInt,1/1/2002,Default GetTemplateEquipmentConfigsParametersResponse
+QGEntInt,1/1/2004,Default GetTitleEmployeeRolesByEmployeeIdsWithBusinessUnitn1927332837
+QGEntInt,1/1/2004,Default GetTitleEmployeeRolesByEmployeeParametersResponse
+QGEntInt,1/1/2004,Default GetTitleEmployeeRolesByTitleParametersResponse
+QGEntInt,1/1/2004,Default GetTitleEmployeeRolesByTitleWithBusinessUnitParamen1459304759
+QGEntInt,1/1/2004,Default GetTitleEmployeeRolesByTitlesParametersResponse
+QGEntInt,1/1/2004,Default GetTitleEmployeeRolesByTitlesWithBusinessUnitParame2097811988
+QGEntInt,1/1/2003,Default GetUnderlyingDatabaseLiteralParametersResponse
+QGEntInt,1/1/2003,Default GetUnderlyingDatabaseLiteralsParametersResponse
+QGEntInt,1/1/2002,Default GetUnitQualifiersParametersResponse
+QGEntInt,1/1/2003,Default RetrieveEmpIdXrefForSsnParametersResponse
+QGEntInt,1/1/2002,Default SetIssueInOrderManagmentParametersResponse
+QGEntInt,1/1/2002,Default SetOrderPrepStatusParametersResponse
+QGEntInt,1/1/2002,DefaultCutoff
+QGEntInt,1/1/2004,DefaultLogo
+QGEntInt,1/1/2002,DeliveryCount
+QGEntInt,1/1/2002,DeliveryCount
+QGEntInt,1/1/2003,DepartmentNumber
+QGEntInt,1/1/2004,Description
+QGEntInt,1/1/2002,Description
+QGEntInt,1/1/2004,DirectorySalesOffice
+QGEntInt,1/1/2004,DirectorySalesPerson
+QGEntInt,1/1/2004,DirectoryStatus
+QGEntInt,1/1/2002,DisplayOrder
+QGEntInt,1/1/2002,DisplayOrder
+QGEntInt,1/1/2002,DisplayOrder
+QGEntInt,1/1/2002,DisplayOrder
+QGEntInt,1/1/2002,DisplayOrder
+QGEntInt,1/1/2002,DisplayOrder
+QGEntInt,1/1/2002,DollarAmount
+QGEntInt,1/1/2002,DollarAmount
+QGEntInt,1/1/2002,DollarAmount
+QGEntInt,1/1/2004,DownPayments
+QGEntInt,1/1/2002,EarliestPressDate
+QGEntInt,1/1/2002,EcoCertId
+QGEntInt,1/1/2002,EcoCertification
+QGEntInt,1/1/2002,EcoCertificationId
+QGEntInt,1/1/2004,EffectiveDate
+QGEntInt,1/1/2004,Email
+QGEntInt,1/1/2003,EmailName
+QGEntInt,1/1/2004,Employee
+QGEntInt,1/1/2003,EmployeeDto
+QGEntInt,1/1/2004,EmployeeId
+QGEntInt,1/1/2004,EmployeeId
+QGEntInt,1/1/2003,EmployeeId
+QGEntInt,1/1/2004,EmployeeId
+QGEntInt,1/1/2003,EmployeeId
+QGEntInt,1/1/2003,EmployeeId
+QGEntInt,1/1/2004,EmployeeRole
+QGEntInt,1/1/2004,EmployeeRoleCode
+QGEntInt,1/1/2004,EmployeeRoleCode
+QGEntInt,1/1/2004,EmployeeRoleErpValue
+QGEntInt,1/1/2004,EmployeeRoleName
+QGEntInt,1/1/2003,EmployeeSecureDto
+QGEntInt,1/1/2001,EncodingType
+QGEntInt,1/1/2002,Equipment
+QGEntInt,1/1/2002,Equipment
+QGEntInt,1/1/2002,EquipmentTypeConfigId
+QGEntInt,1/1/2002,EquipmentTypeConfigId
+QGEntInt,1/1/2002,EquipmentTypeId
+QGEntInt,1/1/2002,EventDate
+QGEntInt,1/1/2002,Factor
+QGEntInt,1/1/2004,Fax
+QGEntInt,1/1/2004,FaxNumber
+QGEntInt,1/1/2004,FederalIdNumber
+QGEntInt,1/1/2002,FiberCode
+QGEntInt,1/1/2002,FinishCode
+QGEntInt,1/1/2002,FinishCode
+QGEntInt,1/1/2004,FirstName
+QGEntInt,1/1/2004,FirstName
+QGEntInt,1/1/2003,FirstName
+QGEntInt,1/1/2004,FirstName
+QGEntInt,1/1/2004,FirstProductionMonth
+QGEntInt,1/1/2004,FirstProductionYear
+QGEntInt,1/1/2002,FlatHeight
+QGEntInt,1/1/2002,FlatWidth
+QGEntInt,1/1/2002,FolderTypeCode
+QGEntInt,1/1/2003,FoundersYear
+QGEntInt,1/1/2004,FreeMagazineCode
+QGEntInt,1/1/2004,FullName
+QGEntInt,1/1/2004,GainShare
+QGEntInt,1/1/2003,GenderCode
+QGEntInt,1/1/2004,GetAccountByTitleCode
+QGEntInt,1/1/2004,GetAccountByTitleCodeParameters
+QGEntInt,1/1/2004,GetAccountByTitleCodeParameters MapFrom
+QGEntInt,1/1/2004,GetAccountByTitleCodeParametersResponse
+QGEntInt,1/1/2004,GetAccountByTitleCodeResult
+QGEntInt,1/1/2003,GetAllPaged
+QGEntInt,1/1/2003,GetAllPagedParameters
+QGEntInt,1/1/2003,GetAllPagedParameters MapFrom
+QGEntInt,1/1/2003,GetAllPagedParametersResponse
+QGEntInt,1/1/2003,GetAllPagedResult
+QGEntInt,1/1/2003,GetAlternateEmployeeIds
+QGEntInt,1/1/2003,GetAlternateEmployeeIdsParameters
+QGEntInt,1/1/2003,GetAlternateEmployeeIdsParameters MapFrom
+QGEntInt,1/1/2003,GetAlternateEmployeeIdsParametersResponse
+QGEntInt,1/1/2003,GetAlternateEmployeeIdsResult
+QGEntInt,1/1/2004,GetBasicTitleByTitleCode
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodeParameters
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodeParameters MapFrom
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodeParametersResponse
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodeResult
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodes
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodesParameters
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodesParameters MapFrom
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodesParametersResponse
+QGEntInt,1/1/2004,GetBasicTitleByTitleCodesResult
+QGEntInt,1/1/2003,GetByFilter
+QGEntInt,1/1/2003,GetByFilterPaged
+QGEntInt,1/1/2003,GetByFilterPagedParameters
+QGEntInt,1/1/2003,GetByFilterPagedParameters MapFrom
+QGEntInt,1/1/2003,GetByFilterPagedParametersResponse
+QGEntInt,1/1/2003,GetByFilterPagedResult
+QGEntInt,1/1/2003,GetByFilterParameters
+QGEntInt,1/1/2003,GetByFilterParameters MapFrom
+QGEntInt,1/1/2003,GetByFilterParametersResponse
+QGEntInt,1/1/2003,GetByFilterResult
+QGEntInt,1/1/2003,GetById
+QGEntInt,1/1/2003,GetByIdParameters
+QGEntInt,1/1/2003,GetByIdParameters MapFrom
+QGEntInt,1/1/2003,GetByIdParametersResponse
+QGEntInt,1/1/2003,GetByIdResult
+QGEntInt,1/1/2003,GetByIds
+QGEntInt,1/1/2003,GetByIdsParameters
+QGEntInt,1/1/2003,GetByIdsParameters MapFrom
+QGEntInt,1/1/2003,GetByIdsParametersResponse
+QGEntInt,1/1/2003,GetByIdsResult
+QGEntInt,1/1/2003,GetByUsernames
+QGEntInt,1/1/2003,GetByUsernamesParameters
+QGEntInt,1/1/2003,GetByUsernamesParameters MapFrom
+QGEntInt,1/1/2003,GetByUsernamesParametersResponse
+QGEntInt,1/1/2003,GetByUsernamesResult
+QGEntInt,1/1/2002,GetConfigRollWidthCalculation
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationByOptionComponent
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationByOptionComponentParameters
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationByOptionComponentParameters MapFrom
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationByOptionComponentParan1187760188
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationByOptionComponentResult
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationParameters
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationParameters MapFrom
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationParametersResponse
+QGEntInt,1/1/2002,GetConfigRollWidthCalculationResult
+QGEntInt,1/1/2003,GetDatabasesWildcardCharacters
+QGEntInt,1/1/2003,GetDatabasesWildcardCharactersParameters
+QGEntInt,1/1/2003,GetDatabasesWildcardCharactersParameters MapFrom
+QGEntInt,1/1/2003,GetDatabasesWildcardCharactersParametersResponse
+QGEntInt,1/1/2003,GetDatabasesWildcardCharactersResult
+QGEntInt,1/1/2003,GetEmployeeIdByProgressId
+QGEntInt,1/1/2003,GetEmployeeIdByProgressIdParameters
+QGEntInt,1/1/2003,GetEmployeeIdByProgressIdParameters MapFrom
+QGEntInt,1/1/2003,GetEmployeeIdByProgressIdParametersResponse
+QGEntInt,1/1/2003,GetEmployeeIdByProgressIdResult
+QGEntInt,1/1/2003,GetEnumerationValueFromDatabaseLiteral
+QGEntInt,1/1/2003,GetEnumerationValueFromDatabaseLiteralParameters
+QGEntInt,1/1/2003,GetEnumerationValueFromDatabaseLiteralParameters MapFrom
+QGEntInt,1/1/2003,GetEnumerationValueFromDatabaseLiteralParametersResponse
+QGEntInt,1/1/2003,GetEnumerationValueFromDatabaseLiteralResult
+QGEntInt,1/1/2002,GetFullIssue
+QGEntInt,1/1/2002,GetFullIssueParameters
+QGEntInt,1/1/2002,GetFullIssueParameters MapFrom
+QGEntInt,1/1/2002,GetFullIssueParametersResponse
+QGEntInt,1/1/2002,GetFullIssueResult
+QGEntInt,1/1/2003,GetJobTitleById
+QGEntInt,1/1/2003,GetJobTitleByIdParameters
+QGEntInt,1/1/2003,GetJobTitleByIdParameters MapFrom
+QGEntInt,1/1/2003,GetJobTitleByIdParametersResponse
+QGEntInt,1/1/2003,GetJobTitleByIdResult
+QGEntInt,1/1/2004,GetMarketClasses
+QGEntInt,1/1/2004,GetMarketClassesParameters
+QGEntInt,1/1/2004,GetMarketClassesParameters MapFrom
+QGEntInt,1/1/2004,GetMarketClassesParametersResponse
+QGEntInt,1/1/2004,GetMarketClassesResult
+QGEntInt,1/1/2003,GetMaxSupportedPageSize
+QGEntInt,1/1/2003,GetMaxSupportedPageSizeParameters
+QGEntInt,1/1/2003,GetMaxSupportedPageSizeParameters MapFrom
+QGEntInt,1/1/2003,GetMaxSupportedPageSizeParametersResponse
+QGEntInt,1/1/2003,GetMaxSupportedPageSizeResult
+QGEntInt,1/1/2002,GetOptions
+QGEntInt,1/1/2002,GetOptionsParameters
+QGEntInt,1/1/2002,GetOptionsParameters MapFrom
+QGEntInt,1/1/2002,GetOptionsParametersResponse
+QGEntInt,1/1/2002,GetOptionsResult
+QGEntInt,1/1/2002,GetOrderAreas
+QGEntInt,1/1/2002,GetOrderAreasParameters
+QGEntInt,1/1/2002,GetOrderAreasParameters MapFrom
+QGEntInt,1/1/2002,GetOrderAreasParametersResponse
+QGEntInt,1/1/2002,GetOrderAreasResult
+QGEntInt,1/1/2002,GetPriceScheduleTemplateEquipmentConfigs
+QGEntInt,1/1/2002,GetPriceScheduleTemplateEquipmentConfigsParameters
+QGEntInt,1/1/2002,GetPriceScheduleTemplateEquipmentConfigsParameters MapFrom
+QGEntInt,1/1/2002,GetPriceScheduleTemplateEquipmentConfigsParametersResponse
+QGEntInt,1/1/2002,GetPriceScheduleTemplateEquipmentConfigsResult
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsByIssueIdOrJobNumber
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsByIssueIdOrJobNumberP484624684
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsByIssueIdOrJobNumberParameters
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsByIssueIdOrJobNumberParameters MapFrom
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsByIssueIdOrJobNumberResult
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsBySearch
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsBySearchParameters
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsBySearchParameters MapFrom
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsBySearchParametersResponse
+QGEntInt,1/1/2002,GetProductionPlanningQueueItemsBySearchResult
+QGEntInt,1/1/2003,GetSecureAllPaged
+QGEntInt,1/1/2003,GetSecureAllPagedParameters
+QGEntInt,1/1/2003,GetSecureAllPagedParameters MapFrom
+QGEntInt,1/1/2003,GetSecureAllPagedParametersResponse
+QGEntInt,1/1/2003,GetSecureAllPagedResult
+QGEntInt,1/1/2003,GetSecureByFilterPaged
+QGEntInt,1/1/2003,GetSecureByFilterPagedParameters
+QGEntInt,1/1/2003,GetSecureByFilterPagedParameters MapFrom
+QGEntInt,1/1/2003,GetSecureByFilterPagedParametersResponse
+QGEntInt,1/1/2003,GetSecureByFilterPagedResult
+QGEntInt,1/1/2003,GetSecureById
+QGEntInt,1/1/2003,GetSecureByIdParameters
+QGEntInt,1/1/2003,GetSecureByIdParameters MapFrom
+QGEntInt,1/1/2003,GetSecureByIdParametersResponse
+QGEntInt,1/1/2003,GetSecureByIdResult
+QGEntInt,1/1/2003,GetSecureByIds
+QGEntInt,1/1/2003,GetSecureByIdsParameters
+QGEntInt,1/1/2003,GetSecureByIdsParameters MapFrom
+QGEntInt,1/1/2003,GetSecureByIdsParametersResponse
+QGEntInt,1/1/2003,GetSecureByIdsResult
+QGEntInt,1/1/2003,GetSecureByUsernames
+QGEntInt,1/1/2003,GetSecureByUsernamesParameters
+QGEntInt,1/1/2003,GetSecureByUsernamesParameters MapFrom
+QGEntInt,1/1/2003,GetSecureByUsernamesParametersResponse
+QGEntInt,1/1/2003,GetSecureByUsernamesResult
+QGEntInt,1/1/2004,GetServiceStaffForTitle
+QGEntInt,1/1/2004,GetServiceStaffForTitleParameters
+QGEntInt,1/1/2004,GetServiceStaffForTitleParameters MapFrom
+QGEntInt,1/1/2004,GetServiceStaffForTitleParametersResponse
+QGEntInt,1/1/2004,GetServiceStaffForTitleResult
+QGEntInt,1/1/2004,GetServiceStaffForTitleWithBusinessUnit
+QGEntInt,1/1/2004,GetServiceStaffForTitleWithBusinessUnitParameters
+QGEntInt,1/1/2004,GetServiceStaffForTitleWithBusinessUnitParameters MapFrom
+QGEntInt,1/1/2004,GetServiceStaffForTitleWithBusinessUnitParametersResponse
+QGEntInt,1/1/2004,GetServiceStaffForTitleWithBusinessUnitResult
+QGEntInt,1/1/2004,GetServiceStaffForTitles
+QGEntInt,1/1/2004,GetServiceStaffForTitlesParameters
+QGEntInt,1/1/2004,GetServiceStaffForTitlesParameters MapFrom
+QGEntInt,1/1/2004,GetServiceStaffForTitlesParametersResponse
+QGEntInt,1/1/2004,GetServiceStaffForTitlesResult
+QGEntInt,1/1/2002,GetSizeClasses
+QGEntInt,1/1/2002,GetSizeClassesParameters
+QGEntInt,1/1/2002,GetSizeClassesParameters MapFrom
+QGEntInt,1/1/2002,GetSizeClassesParametersResponse
+QGEntInt,1/1/2002,GetSizeClassesResult
+QGEntInt,1/1/2002,GetTemplateEquipmentConfigs
+QGEntInt,1/1/2002,GetTemplateEquipmentConfigsParameters
+QGEntInt,1/1/2002,GetTemplateEquipmentConfigsParameters MapFrom
+QGEntInt,1/1/2002,GetTemplateEquipmentConfigsParametersResponse
+QGEntInt,1/1/2002,GetTemplateEquipmentConfigsResult
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployee
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeIdsWithBusinessUnit
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeIdsWithBusinessUnitParameters
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeIdsWithBusinessUnitParameters MapFrom
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeIdsWithBusinessUnitResult
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeIdsWithBusinessUnitn1927332837
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeParameters
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeParameters MapFrom
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeParametersResponse
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByEmployeeResult
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitle
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleParameters
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleParameters MapFrom
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleParametersResponse
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleResult
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleWithBusinessUnit
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleWithBusinessUnitParamen1459304759
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleWithBusinessUnitParameters
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleWithBusinessUnitParameters MapFrom
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitleWithBusinessUnitResult
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitles
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesParameters
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesParameters MapFrom
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesParametersResponse
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesResult
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesWithBusinessUnit
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesWithBusinessUnitParame2097811988
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesWithBusinessUnitParameters
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesWithBusinessUnitParameters MapFrom
+QGEntInt,1/1/2004,GetTitleEmployeeRolesByTitlesWithBusinessUnitResult
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteral
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralParameters
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralParameters MapFrom
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralParametersResponse
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralResult
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiterals
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralsParameters
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralsParameters MapFrom
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralsParametersResponse
+QGEntInt,1/1/2003,GetUnderlyingDatabaseLiteralsResult
+QGEntInt,1/1/2002,GetUnitQualifiers
+QGEntInt,1/1/2002,GetUnitQualifiersParameters
+QGEntInt,1/1/2002,GetUnitQualifiersParameters MapFrom
+QGEntInt,1/1/2002,GetUnitQualifiersParametersResponse
+QGEntInt,1/1/2002,GetUnitQualifiersResult
+QGEntInt,1/1/2002,GradeCode
+QGEntInt,1/1/2002,GrainDirectionCode
+QGEntInt,1/1/2002,GroupCode
+QGEntInt,1/1/2004,Guid
+QGEntInt,1/1/2002,HasPricing
+QGEntInt,1/1/2002,HasPricing
+QGEntInt,1/1/2002,HasPricing
+QGEntInt,1/1/2002,HasPricing
+QGEntInt,1/1/2002,Height
+QGEntInt,1/1/2002,Height
+QGEntInt,1/1/2004,HomePhoneNumber
+QGEntInt,1/1/2003,HomePhoneNumber
+QGEntInt,1/1/2004,HomePhoneNumber
+QGEntInt,1/1/2004,ISOCurrencyCode
+QGEntInt,1/1/2001,Id
+QGEntInt,1/1/2002,Id
+QGEntInt,1/1/2002,Id
+QGEntInt,1/1/2004,Id
+QGEntInt,1/1/2004,Id
+QGEntInt,1/1/2002,Id
+QGEntInt,1/1/2004,Id
+QGEntInt,1/1/2001,Id
+QGEntInt,1/1/2001,Ids
+QGEntInt,1/1/2004,ImagingFacility
+QGEntInt,1/1/2004,ImagingPlant
+QGEntInt,1/1/2004,InactiveDate
+QGEntInt,1/1/2004,IncoTerms
+QGEntInt,1/1/2004,IndustryCode
+QGEntInt,1/1/2003,InformalName
+QGEntInt,1/1/2004,InitialBillingAddressCity
+QGEntInt,1/1/2004,InitialBillingAddressCountry
+QGEntInt,1/1/2004,InitialBillingAddressLine1
+QGEntInt,1/1/2004,InitialBillingAddressLine2
+QGEntInt,1/1/2004,InitialBillingAddressName
+QGEntInt,1/1/2004,InitialBillingAddressPostalCode
+QGEntInt,1/1/2004,InitialBillingAddressState
+QGEntInt,1/1/2002,Ink
+QGEntInt,1/1/2002,InkTypeId
+QGEntInt,1/1/2002,Inks
+QGEntInt,1/1/2004,Instructions
+QGEntInt,1/1/2004,Internal
+QGEntInt,1/1/2001,IsADFSSecurityTokenProblem
+QGEntInt,1/1/2002,IsDistributive
+QGEntInt,1/1/2002,IsExcludedFromSchedule
+QGEntInt,1/1/2002,IsLogicallyDeleted
+QGEntInt,1/1/2002,IsOptional
+QGEntInt,1/1/2002,IsOptional
+QGEntInt,1/1/2002,IsOptional
+QGEntInt,1/1/2004,Isbn
+QGEntInt,1/1/2004,Issn
+QGEntInt,1/1/2002,IssueId
+QGEntInt,1/1/2002,IssueId
+QGEntInt,1/1/2002,IssueId
+QGEntInt,1/1/2002,IssueLDC
+QGEntInt,1/1/2002,IssueName
+QGEntInt,1/1/2004,Itl
+QGEntInt,1/1/2002,JobNumber
+QGEntInt,1/1/2002,JobNumber
+QGEntInt,1/1/2002,JobOptions
+QGEntInt,1/1/2003,JobTitleId
+QGEntInt,1/1/2003,JobTitleId
+QGEntInt,1/1/2003,JobTitleName
+QGEntInt,1/1/2003,JobTitleName
+QGEntInt,1/1/2002,Jobs
+QGEntInt,1/1/2003,Key
+QGEntInt,1/1/2001,KeyType
+QGEntInt,1/1/2001,KeyType
+QGEntInt,1/1/2003,KeyValueOfstringstring
+QGEntInt,1/1/2004,LastChangedOn
+QGEntInt,1/1/2004,LastChangedTimestamp
+QGEntInt,1/1/2004,LastChangedTimestamp
+QGEntInt,1/1/2004,LastChangedUserId
+QGEntInt,1/1/2004,LastChangedUserId
+QGEntInt,1/1/2003,LastName
+QGEntInt,1/1/2004,LastName
+QGEntInt,1/1/2004,LastName
+QGEntInt,1/1/2004,LastName
+QGEntInt,1/1/2004,LastSaleDate
+QGEntInt,1/1/2003,LastWorkedDate
+QGEntInt,1/1/2003,LeaveIndicator
+QGEntInt,1/1/2002,Level
+QGEntInt,1/1/2002,LineItems
+QGEntInt,1/1/2002,LineNumber
+QGEntInt,1/1/2002,LineNumber
+QGEntInt,1/1/2002,LineNumber
+QGEntInt,1/1/2004,Locales
+QGEntInt,1/1/2004,Locales
+QGEntInt,1/1/2002,LocationName
+QGEntInt,1/1/2003,LocationNumber
+QGEntInt,1/1/2002,MailCycleType
+QGEntInt,1/1/2002,MailCycleTypeCode
+QGEntInt,1/1/2003,ManagementCode
+QGEntInt,1/1/2003,ManagementDate
+QGEntInt,1/1/2004,ManufacturingPotential
+QGEntInt,1/1/2004,MarketClassCode
+QGEntInt,1/1/2004,MarketClassCode
+QGEntInt,1/1/2004,MarketClassDto
+QGEntInt,1/1/2004,MarketClassLocaleDto
+QGEntInt,1/1/2004,MarketProductTypeId
+QGEntInt,1/1/2004,MarketProductTypeId
+QGEntInt,1/1/2004,MarketProductTypeId
+QGEntInt,1/1/2004,MarketProductTypeName
+QGEntInt,1/1/2004,MarketProductTypeName
+QGEntInt,1/1/2004,MarketProductTypeName
+QGEntInt,1/1/2004,MarketProductTypeName
+QGEntInt,1/1/2004,MarketSubClass
+QGEntInt,1/1/2004,MarketSubClassDto
+QGEntInt,1/1/2004,MarketSubClassLocaleDto
+QGEntInt,1/1/2004,MarketSubClasses
+QGEntInt,1/1/2004,MarketSubProductTypeId
+QGEntInt,1/1/2004,MarketSubProductTypeId
+QGEntInt,1/1/2003,MastersYear
+QGEntInt,1/1/2002,MaterialTypeCode
+QGEntInt,1/1/2002,MaxHeight
+QGEntInt,1/1/2002,MaxWidth
+QGEntInt,1/1/2003,MiddleInitial
+QGEntInt,1/1/2004,MilmagStatus
+QGEntInt,1/1/2002,MinHeight
+QGEntInt,1/1/2002,MinWidth
+QGEntInt,1/1/2003,MixedCaseFirstName
+QGEntInt,1/1/2003,MixedCaseLastName
+QGEntInt,1/1/2004,ModifiedBy
+QGEntInt,1/1/2004,ModifiedBy
+QGEntInt,1/1/2004,ModifiedBy
+QGEntInt,1/1/2004,ModifiedBy
+QGEntInt,1/1/2004,ModifiedBy
+QGEntInt,1/1/2004,ModifiedOn
+QGEntInt,1/1/2004,ModifiedOn
+QGEntInt,1/1/2004,ModifiedOn
+QGEntInt,1/1/2004,ModifiedOn
+QGEntInt,1/1/2004,ModifiedOn
+QGEntInt,1/1/2004,NIP
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2004,Name
+QGEntInt,1/1/2004,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2004,Name
+QGEntInt,1/1/2004,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2004,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,Name
+QGEntInt,1/1/2002,NameWithSizes
+QGEntInt,1/1/2004,NoLdcEmail
+QGEntInt,1/1/2002,NoSubsitutions
+QGEntInt,1/1/2004,Number
+QGEntInt,1/1/2004,NumberOfEmployees
+QGEntInt,1/1/2002,NumberOut
+QGEntInt,1/1/2002,NumberOutCount
+QGEntInt,1/1/2004,OFSalesOffice
+QGEntInt,1/1/2004,OFSalesPerson
+QGEntInt,1/1/2004,OfStatus
+QGEntInt,1/1/2002,OnPressMonthYear
+QGEntInt,1/1/2004,OneClientMultipleTitles
+QGEntInt,1/1/2002,Operation
+QGEntInt,1/1/2002,OperationTypeId
+QGEntInt,1/1/2002,Operations
+QGEntInt,1/1/2002,Option
+QGEntInt,1/1/2002,OptionAssemblyVersion
+QGEntInt,1/1/2002,OptionAssemblyVersionComponent
+QGEntInt,1/1/2002,OptionAssemblyVersions
+QGEntInt,1/1/2002,OptionComponent
+QGEntInt,1/1/2002,OptionConfig
+QGEntInt,1/1/2002,OptionConfigId
+QGEntInt,1/1/2002,OptionId
+QGEntInt,1/1/2002,OptionId
+QGEntInt,1/1/2002,OptionInk
+QGEntInt,1/1/2002,OptionInkId
+QGEntInt,1/1/2002,OptionLineItem
+QGEntInt,1/1/2002,OptionLocation
+QGEntInt,1/1/2002,OptionName
+QGEntInt,1/1/2002,OptionOperation
+QGEntInt,1/1/2002,OptionOperationId
+QGEntInt,1/1/2002,OptionOperationId
+QGEntInt,1/1/2002,OptionPaper
+QGEntInt,1/1/2002,OptionPaperConfig
+QGEntInt,1/1/2002,OptionPaperConfigConsumption
+QGEntInt,1/1/2002,OptionRequestedDate
+QGEntInt,1/1/2002,OptionService
+QGEntInt,1/1/2002,OptionServiceId
+QGEntInt,1/1/2002,OptionServicePropertyAnswer
+QGEntInt,1/1/2002,OptionStatusCode
+QGEntInt,1/1/2002,OptionTemplateEquipmentConfig
+QGEntInt,1/1/2002,Options
+QGEntInt,1/1/2002,Options
+QGEntInt,1/1/2002,OrderArea
+QGEntInt,1/1/2002,OrderArea
+QGEntInt,1/1/2002,OrderAreaCode
+QGEntInt,1/1/2002,OrderAreaCode
+QGEntInt,1/1/2002,OrderAreaLineNumber
+QGEntInt,1/1/2002,OrderManagementConfigPaperDto
+QGEntInt,1/1/2002,OrderManagementEquipmentConfigDto
+QGEntInt,1/1/2002,OrderManagementEquipmentTypeDto
+QGEntInt,1/1/2002,OrganizationId
+QGEntInt,1/1/2002,OrganizationTypeCode
+QGEntInt,1/1/2004,Owner
+QGEntInt,1/1/2002,OwnerCode
+QGEntInt,1/1/2004,OwnerId
+QGEntInt,1/1/2004,OwnershipCode
+QGEntInt,1/1/2002,P2BFieldTypeCode
+QGEntInt,1/1/2002,P2BFieldTypeCode
+QGEntInt,1/1/2002,P2BTechnicalTypeCode
+QGEntInt,1/1/2002,P2BTechnicalTypeCode
+QGEntInt,1/1/2002,PageCount
+QGEntInt,1/1/2002,PageCount
+QGEntInt,1/1/2002,PageCount
+QGEntInt,1/1/2002,PageCount
+QGEntInt,1/1/2002,PageCount
+QGEntInt,1/1/2004,PagerPhoneNumber
+QGEntInt,1/1/2004,PagerPhoneNumber
+QGEntInt,1/1/2002,Paper
+QGEntInt,1/1/2002,PaperClassId
+QGEntInt,1/1/2002,PaperConfigId
+QGEntInt,1/1/2002,PaperConfigs
+QGEntInt,1/1/2002,PaperId
+QGEntInt,1/1/2004,PaperOwnerId
+QGEntInt,1/1/2004,PaperPotential
+QGEntInt,1/1/2002,PaperPrice
+QGEntInt,1/1/2002,PaperWastePercent
+QGEntInt,1/1/2002,Papers
+QGEntInt,1/1/2001,Password
+QGEntInt,1/1/2003,PayClassCode
+QGEntInt,1/1/2004,PaymentDays
+QGEntInt,1/1/2003,PersonnelStatus
+QGEntInt,1/1/2003,PersonnelType
+QGEntInt,1/1/2003,PhoneExtension
+QGEntInt,1/1/2004,PhoneNumber
+QGEntInt,1/1/2004,PhoneNumber
+QGEntInt,1/1/2002,PocketCount
+QGEntInt,1/1/2002,PocketCount
+QGEntInt,1/1/2004,PostageInd
+QGEntInt,1/1/2004,PostalCode
+QGEntInt,1/1/2004,PostalCode
+QGEntInt,1/1/2002,PoundsPerPieceAmount
+QGEntInt,1/1/2004,PreBill
+QGEntInt,1/1/2004,PreferredBindFacility
+QGEntInt,1/1/2004,PreferredPressFacility
+QGEntInt,1/1/2004,PreferredPressFacilityId
+QGEntInt,1/1/2001,PreliminaryInstructionSourceType
+QGEntInt,1/1/2004,PremediaSalesOffice
+QGEntInt,1/1/2004,PremediaSalesPerson
+QGEntInt,1/1/2004,PremediaStatus
+QGEntInt,1/1/2001,PrepareTitleProfileIntRequest
+QGEntInt,1/1/2002,PressBindTypeId
+QGEntInt,1/1/2002,PressFolderTypeCode
+QGEntInt,1/1/2004,PreviousTitleCode
+QGEntInt,1/1/2004,PrimaryContactFax
+QGEntInt,1/1/2004,PrimaryContactName
+QGEntInt,1/1/2004,PrimaryContactPhone
+QGEntInt,1/1/2004,PrimarySalesPersonId
+QGEntInt,1/1/2004,PrintSalesOffice
+QGEntInt,1/1/2004,PrintSalesPerson
+QGEntInt,1/1/2004,PrintStatus
+QGEntInt,1/1/2002,PrintVersions
+QGEntInt,1/1/2001,ProcessTitleProfileIntResponse
+QGEntInt,1/1/2004,ProductCategoryCode
+QGEntInt,1/1/2004,ProductCategoryName
+QGEntInt,1/1/2002,ProductQuantity
+QGEntInt,1/1/2002,ProductSpecId
+QGEntInt,1/1/2002,ProductType
+QGEntInt,1/1/2004,ProductType
+QGEntInt,1/1/2002,ProductTypeCode
+QGEntInt,1/1/2004,ProductTypeCode
+QGEntInt,1/1/2004,ProductTypeName
+QGEntInt,1/1/2002,ProductionAltId
+QGEntInt,1/1/2002,ProductionPlanningJobDto
+QGEntInt,1/1/2002,ProductionPlanningOptionDto
+QGEntInt,1/1/2002,ProductionPlanningResultDto
+QGEntInt,1/1/2002,PropertyAnswers
+QGEntInt,1/1/2004,PulledForWc
+QGEntInt,1/1/2004,QDSSalesOffice
+QGEntInt,1/1/2004,QDSSalesPerson
+QGEntInt,1/1/2004,QDSStatus
+QGEntInt,,QGEntInt
+QGEntInt,,QGEntInt 01-01-01
+QGEntInt,,QGEntInt 01-01-02
+QGEntInt,,QGEntInt 01-01-03
+QGEntInt,,QGEntInt 01-01-04
+QGEntInt,1/1/2002,QGRMSCycleNumber
+QGEntInt,1/1/2004,QTSSalesOffice
+QGEntInt,1/1/2004,QTSSalesPerson
+QGEntInt,1/1/2004,QWEParentName
+QGEntInt,1/1/2004,QtsStatus
+QGEntInt,1/1/2004,QuadDirectAccountClassification
+QGEntInt,1/1/2004,QuadIndicator
+QGEntInt,1/1/2004,QuadSystemsSalesOffice
+QGEntInt,1/1/2004,QuadSystemsSalesPerson
+QGEntInt,1/1/2004,QuadSystemsStatus
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Quantity
+QGEntInt,1/1/2002,Question
+QGEntInt,1/1/2002,QuestionId
+QGEntInt,1/1/2002,RecycledPercent
+QGEntInt,1/1/2004,Region
+QGEntInt,1/1/2004,Region
+QGEntInt,1/1/2004,Region
+QGEntInt,1/1/2004,RelationshipCode
+QGEntInt,1/1/2004,RelationshipName
+QGEntInt,1/1/2002,RemoteUsername
+QGEntInt,1/1/2003,RentalAllowedFlag
+QGEntInt,1/1/2002,ReplacedByOptionId
+QGEntInt,1/1/2002,ReportQuantity
+QGEntInt,1/1/2001,RequestSecurityToken
+QGEntInt,1/1/2001,RequestSecurityToken MapFrom
+QGEntInt,1/1/2001,RequestSecurityTokenResponse
+QGEntInt,1/1/2001,RequestType
+QGEntInt,1/1/2001,RequestType
+QGEntInt,1/1/2002,RequestedDateId
+QGEntInt,1/1/2002,RequestedDates
+QGEntInt,1/1/2004,RetailSalesOffice
+QGEntInt,1/1/2004,RetailSalesPerson
+QGEntInt,1/1/2004,RetailStatus
+QGEntInt,1/1/2003,RetrieveEmpIdXrefForSsn
+QGEntInt,1/1/2003,RetrieveEmpIdXrefForSsnParameters
+QGEntInt,1/1/2003,RetrieveEmpIdXrefForSsnParameters MapFrom
+QGEntInt,1/1/2003,RetrieveEmpIdXrefForSsnParametersResponse
+QGEntInt,1/1/2003,RetrieveEmpIdXrefForSsnResult
+QGEntInt,1/1/2004,Revenue
+QGEntInt,1/1/2002,RibbonCount
+QGEntInt,1/1/2002,RibbonCount
+QGEntInt,1/1/2004,RoleDto
+QGEntInt,1/1/2004,Roles
+QGEntInt,1/1/2002,RollWidth
+QGEntInt,1/1/2002,RollWidth
+QGEntInt,1/1/2002,RollWidthWeb2
+QGEntInt,1/1/2004,RutId
+QGEntInt,1/1/2004,SFDC
+QGEntInt,1/1/2004,SVAT
+QGEntInt,1/1/2004,SalesRegion
+QGEntInt,1/1/2004,SalesSegment
+QGEntInt,1/1/2002,ScheduleDate
+QGEntInt,1/1/2002,ScheduledLocation
+QGEntInt,1/1/2004,SchedulingOnly
+QGEntInt,1/1/2001,Security MapFrom
+QGEntInt,1/1/2004,SecurityRequired
+QGEntInt,1/1/2002,Service
+QGEntInt,1/1/2002,ServiceId
+QGEntInt,1/1/2004,ServiceLine
+QGEntInt,1/1/2002,ServiceOperationId
+QGEntInt,1/1/2004,ServiceStaff
+QGEntInt,1/1/2004,ServiceStaffId
+QGEntInt,1/1/2004,ServiceStaffId
+QGEntInt,1/1/2002,Services
+QGEntInt,1/1/2002,Services
+QGEntInt,1/1/2002,SetIssueInOrderManagment
+QGEntInt,1/1/2002,SetIssueInOrderManagmentParameters
+QGEntInt,1/1/2002,SetIssueInOrderManagmentParameters MapFrom
+QGEntInt,1/1/2002,SetIssueInOrderManagmentParametersResponse
+QGEntInt,1/1/2002,SetOrderPrepStatus
+QGEntInt,1/1/2002,SetOrderPrepStatusParameters
+QGEntInt,1/1/2002,SetOrderPrepStatusParameters MapFrom
+QGEntInt,1/1/2002,SetOrderPrepStatusParametersResponse
+QGEntInt,1/1/2003,ShiftNumber
+QGEntInt,1/1/2002,ShortDescription
+QGEntInt,1/1/2004,ShortName
+QGEntInt,1/1/2002,ShowLogo
+QGEntInt,1/1/2002,ShowQuantity
+QGEntInt,1/1/2003,SiteLocationNumber
+QGEntInt,1/1/2002,SizeClass
+QGEntInt,1/1/2002,SizeClassId
+QGEntInt,1/1/2003,SocialSecurityNumber
+QGEntInt,1/1/2002,SpoilageImpressions
+QGEntInt,1/1/2002,SpoilagePercent
+QGEntInt,1/1/2004,SpsClassCode
+QGEntInt,1/1/2003,SsnMapEmpIdDto
+QGEntInt,1/1/2004,StandardDescription
+QGEntInt,1/1/2004,StandardDescription
+QGEntInt,1/1/2004,StandardDescription
+QGEntInt,1/1/2004,StandardDescription
+QGEntInt,1/1/2003,StartDate
+QGEntInt,1/1/2004,State
+QGEntInt,1/1/2003,StateOrProvinceCode
+QGEntInt,1/1/2004,StateProviceCode
+QGEntInt,1/1/2004,StateProvince
+QGEntInt,1/1/2004,StateProvinceErpValue
+QGEntInt,1/1/2004,StateProvinceName
+QGEntInt,1/1/2004,Statecode
+QGEntInt,1/1/2004,Station
+QGEntInt,1/1/2004,Station
+QGEntInt,1/1/2004,StationCode
+QGEntInt,1/1/2004,StationId
+QGEntInt,1/1/2004,StationId
+QGEntInt,1/1/2004,StationId
+QGEntInt,1/1/2004,StationIdName
+QGEntInt,1/1/2004,StationIdName
+QGEntInt,1/1/2004,StationName
+QGEntInt,1/1/2002,Status
+QGEntInt,1/1/2002,Status
+QGEntInt,1/1/2004,StatusCode
+QGEntInt,1/1/2002,StatusCode
+QGEntInt,1/1/2002,StatusCode
+QGEntInt,1/1/2004,StorageDays
+QGEntInt,1/1/2004,Street1
+QGEntInt,1/1/2004,Street2
+QGEntInt,1/1/2004,Street3
+QGEntInt,1/1/2004,StreetAddress
+QGEntInt,1/1/2004,StreetAddress2
+QGEntInt,1/1/2003,SubShiftCode
+QGEntInt,1/1/2002,SubmitId
+QGEntInt,1/1/2003,SuffixName
+QGEntInt,1/1/2003,SupervisorCode
+QGEntInt,1/1/2003,SupervisorEmployeeId
+QGEntInt,1/1/2002,SupplierCode
+QGEntInt,1/1/2002,SupplierCode
+QGEntInt,1/1/2002,SupplierMill
+QGEntInt,1/1/2004,SystemUserId
+QGEntInt,1/1/2004,TaxMethod
+QGEntInt,1/1/2004,TaxMethodCode
+QGEntInt,1/1/2004,Telephone2
+QGEntInt,1/1/2003,TempToHireFlag
+QGEntInt,1/1/2003,TerminationDate
+QGEntInt,1/1/2004,TickerSymbol
+QGEntInt,1/1/2004,Title
+QGEntInt,1/1/2004,Title
+QGEntInt,1/1/2004,TitleBlocked
+QGEntInt,1/1/2004,TitleBlockedReason
+QGEntInt,1/1/2004,TitleCode
+QGEntInt,1/1/2002,TitleCode
+QGEntInt,1/1/2001,TitleCode
+QGEntInt,1/1/2002,TitleCode
+QGEntInt,1/1/2004,TitleCode
+QGEntInt,1/1/2001,TitleCode
+QGEntInt,1/1/2004,TitleCode
+QGEntInt,1/1/2004,TitleEmployeeRoleDto
+QGEntInt,1/1/2004,TitleEmployeeRoleId
+QGEntInt,1/1/2004,TitleEmployeeRoleId
+QGEntInt,1/1/2004,TitleEmployeeRoleId
+QGEntInt,1/1/2004,TitleEmployeeRolePress2Bind
+QGEntInt,1/1/2004,TitleEmployeeRolesDto
+QGEntInt,1/1/2004,TitleGuid
+QGEntInt,1/1/2004,TitleId
+QGEntInt,1/1/2002,TitleId
+QGEntInt,1/1/2004,TitleLiteDto
+QGEntInt,1/1/2002,TitleName
+QGEntInt,1/1/2004,TitleName
+QGEntInt,1/1/2002,TitleName
+QGEntInt,1/1/2001,TitleProfile
+QGEntInt,1/1/2001,TitleProfileApiModel
+QGEntInt,1/1/2004,TitleStatus
+QGEntInt,1/1/2004,TitleStatusName
+QGEntInt,1/1/2004,TitleSubtopic
+QGEntInt,1/1/2004,TitleTopic
+QGEntInt,1/1/2001,To MapFrom
+QGEntInt,1/1/2001,Token
+QGEntInt,1/1/2001,TokenCreated
+QGEntInt,1/1/2001,TokenExpires
+QGEntInt,1/1/2001,TokenType
+QGEntInt,1/1/2001,TokenType
+QGEntInt,1/1/2004,Topic
+QGEntInt,1/1/2002,TotalPrice
+QGEntInt,1/1/2002,TotalWeight
+QGEntInt,1/1/2002,TotalWeight
+QGEntInt,1/1/2002,TotalWeight
+QGEntInt,1/1/2004,TruckLoad
+QGEntInt,1/1/2004,Type
+QGEntInt,1/1/2002,UniqueDeliveryCount
+QGEntInt,1/1/2002,UniqueDeliveryCount
+QGEntInt,1/1/2002,UnitCount
+QGEntInt,1/1/2002,UnitCount
+QGEntInt,1/1/2002,UnitQualifier
+QGEntInt,1/1/2002,UnitQualifier
+QGEntInt,1/1/2002,UnitQualifierTypeCode
+QGEntInt,1/1/2002,UnitQuantity
+QGEntInt,1/1/2001,Username
+QGEntInt,1/1/2004,Username
+QGEntInt,1/1/2004,Username
+QGEntInt,1/1/2001,UsernameMixed
+QGEntInt,1/1/2001,UsernameMixedAction
+QGEntInt,1/1/2001,UsernameMixedResponse RequestSecurityTokenResponseCollection
+QGEntInt,1/1/2001,UsernameMixedTo
+QGEntInt,1/1/2001,UsernameToken
+QGEntInt,1/1/2003,Value
+QGEntInt,1/1/2001,ValueBinary
+QGEntInt,1/1/2001,ValueType
+QGEntInt,1/1/2003,VaxUserName
+QGEntInt,1/1/2004,VerifyCredit
+QGEntInt,1/1/2002,VersionId
+QGEntInt,1/1/2002,VersionName
+QGEntInt,1/1/2004,VertisCustomerId
+QGEntInt,1/1/2004,VertisParentCustomerId
+QGEntInt,1/1/2002,Web1Side1Color
+QGEntInt,1/1/2002,Web1Side1Color
+QGEntInt,1/1/2002,Web1Side2Color
+QGEntInt,1/1/2002,Web1Side2Color
+QGEntInt,1/1/2002,Web2Side1Color
+QGEntInt,1/1/2002,Web2Side1Color
+QGEntInt,1/1/2002,Web2Side2Color
+QGEntInt,1/1/2002,Web2Side2Color
+QGEntInt,1/1/2002,WebCount
+QGEntInt,1/1/2002,WebCount
+QGEntInt,1/1/2004,WebsiteUrl
+QGEntInt,1/1/2002,WeightPerForm
+QGEntInt,1/1/2002,Width
+QGEntInt,1/1/2002,Width
+QGEntInt,1/1/2004,WinkowskiSalesOffice
+QGEntInt,1/1/2004,WinkowskiSalesPerson
+QGEntInt,1/1/2004,WinkowskiStatus
+QGEntInt,1/1/2004,WireTransferFlag
+QGEntInt,1/1/2004,WorkPhoneNumber
+QGEntInt,1/1/2004,WorkPhoneNumber
+QGEntInt,1/1/2004,WorldColorErpId
+QGEntInt,1/1/2004,WorldColorErpId
+QGEntInt,1/1/2003,alternateIds
+QGEntInt,1/1/2004,businessUnit
+QGEntInt,1/1/2004,businessUnit
+QGEntInt,1/1/2004,businessUnit
+QGEntInt,1/1/2004,businessUnit
+QGEntInt,1/1/2004,businessUnit
+QGEntInt,1/1/2002,cleanseStatues
+QGEntInt,1/1/2002,componentId
+QGEntInt,1/1/2002,componentId
+QGEntInt,1/1/2002,contractStatuses
+QGEntInt,1/1/2003,databaseValue
+QGEntInt,1/1/2002,earliestPressDateEnd
+QGEntInt,1/1/2002,earliestPressDateStart
+QGEntInt,1/1/2003,empId
+QGEntInt,1/1/2003,empIds
+QGEntInt,1/1/2003,empSsn
+QGEntInt,1/1/2004,employeeId
+QGEntInt,1/1/2003,employeeId
+QGEntInt,1/1/2003,employeeIds
+QGEntInt,1/1/2003,employeeIds
+QGEntInt,1/1/2003,enumerationName
+QGEntInt,1/1/2003,enumerationName
+QGEntInt,1/1/2003,enumerationName
+QGEntInt,1/1/2003,enumerationValue
+QGEntInt,1/1/2002,equipmentTypeConfigId
+QGEntInt,1/1/2002,equipmentTypeConfigId
+QGEntInt,1/1/2003,filter
+QGEntInt,1/1/2003,filter
+QGEntInt,1/1/2003,filter
+QGEntInt,1/1/2002,flatHeight
+QGEntInt,1/1/2002,flatWidth
+QGEntInt,1/1/2002,hasTrimmingService
+QGEntInt,1/1/2001,header
+QGEntInt,1/1/2002,height
+QGEntInt,1/1/2004,inEmployeeIds
+QGEntInt,1/1/2002,includeNonOrdered
+QGEntInt,1/1/2002,int
+QGEntInt,1/1/2003,int
+QGEntInt,1/1/2004,int
+QGEntInt,1/1/2002,issueId
+QGEntInt,1/1/2002,issueId
+QGEntInt,1/1/2002,issueId
+QGEntInt,1/1/2002,issueId
+QGEntInt,1/1/2002,issueStatues
+QGEntInt,1/1/2002,jobNumber
+QGEntInt,1/1/2002,jobNumber
+QGEntInt,1/1/2003,jobTitleId
+QGEntInt,1/1/2004,languageCode
+QGEntInt,1/1/2004,languageCode
+QGEntInt,1/1/2003,lastEmployeeId
+QGEntInt,1/1/2003,lastEmployeeId
+QGEntInt,1/1/2002,nomClientSpecType
+QGEntInt,1/1/2002,optionId
+QGEntInt,1/1/2002,optionId
+QGEntInt,1/1/2002,optionIds
+QGEntInt,1/1/2002,p2BTechnicalTypeCodes
+QGEntInt,1/1/2002,p2BTechnicalTypeCodes
+QGEntInt,1/1/2004,pPrimary
+QGEntInt,1/1/2002,pageCount
+QGEntInt,1/1/2002,pageCount
+QGEntInt,1/1/2003,pageNumber
+QGEntInt,1/1/2003,pageNumber
+QGEntInt,1/1/2003,pageSize
+QGEntInt,1/1/2003,pageSize
+QGEntInt,1/1/2003,pageSize
+QGEntInt,1/1/2003,pageSize
+QGEntInt,1/1/2002,productTypeCode
+QGEntInt,1/1/2002,pyAnyNS pyAnyName
+QGEntInt,1/1/2004,pyAnyNS pyAnyName
+QGEntInt,1/1/2003,pyAnyNS pyAnyName
+QGEntInt,1/1/2003,pyAnyNS pyAnyName
+QGEntInt,1/1/2004,pyAnyNS pyAnyName
+QGEntInt,1/1/2004,pyAnyNS pyAnyName
+QGEntInt,1/1/2004,pyAnyNS pyAnyName
+QGEntInt,1/1/2004,pyAnyNS pyAnyName
+QGEntInt,1/1/2003,pyAnyNS pyAnyName
+QGEntInt,1/1/2003,pyAnyNS pyAnyName
+QGEntInt,1/1/2004,pyAnyNS pyAnyName
+QGEntInt,1/1/2002,pyAnyNS pyAnyName
+QGEntInt,1/1/2001,query_GET
+QGEntInt,1/1/2001,request
+QGEntInt,1/1/2001,response_GET
+QGEntInt,1/1/2002,sizeClassId
+QGEntInt,1/1/2002,sizeClassId
+QGEntInt,1/1/2002,statusCode
+QGEntInt,1/1/2004,string
+QGEntInt,1/1/2003,string
+QGEntInt,1/1/2002,string
+QGEntInt,1/1/2004,titleCode
+QGEntInt,1/1/2004,titleCode
+QGEntInt,1/1/2004,titleCode
+QGEntInt,1/1/2004,titleCode
+QGEntInt,1/1/2004,titleCode
+QGEntInt,1/1/2004,titleCode
+QGEntInt,1/1/2004,titleCodes
+QGEntInt,1/1/2004,titleCodes
+QGEntInt,1/1/2004,titleCodes
+QGEntInt,1/1/2004,titleCodes
+QGEntInt,1/1/2002,unitCount
+QGEntInt,1/1/2002,unitCount
+QGEntInt,1/1/2003,usernames
+QGEntInt,1/1/2003,usernames
+QGEntInt,1/1/2002,webCount
+QGEntInt,1/1/2002,webCount
+QGEntInt,1/1/2002,width
+QGInt,,QG-Int
+QGInt,,QGInt
+QGInt,,QGInt 01-01-01
