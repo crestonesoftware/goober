@@ -67,22 +67,31 @@ public class Dictionary {
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
             int lineCounter;
             int wordsInTheSet;
-
+            boolean needNewLine = false;
+            
             if (writeNewWords) {
-            	lineCounter = wordsInTheSet = 0;
+            	lineCounter = 0;
+            	wordsInTheSet = unrecognizedWords.size();
             	for (String str : this.unrecognizedWords) {
                 	bufferedWriter.write(str + ",c");
-	            	//if (lineCounter < wordsInTheSet) //don't add newLine after last word
+	            	if (lineCounter < wordsInTheSet) //don't add newLine after last word
 	            		bufferedWriter.newLine();
+	            	else
+	            		needNewLine = true;	
 	            	++lineCounter;
                 }
             }
             
             if (writeValidWords) {
-            	lineCounter = wordsInTheSet = 0;
+            	lineCounter = 0;
+            	wordsInTheSet = unrecognizedWords.size();
             	for (String str : this.validWords) {
-	            	bufferedWriter.write(str + ",r");
-	            	//if (lineCounter < wordsInTheSet) //don't add newLine after last word
+	            	if (needNewLine) {
+	            		bufferedWriter.newLine(); // add newline if new words were already written because new words will have ended without a newline
+	            		needNewLine = false;
+	            	}
+            		bufferedWriter.write(str + ",r");
+	            	if (lineCounter < wordsInTheSet) //don't add newLine after last word
 	            		bufferedWriter.newLine();
 	            	++lineCounter;
 	            }
