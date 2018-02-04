@@ -65,7 +65,7 @@ public class Dictionary {
  
             // Always wrap FileReader in BufferedWriter.
             BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
-            int lineCounter; //boop!
+            int lineCounter;
             int wordsInTheSet;
 
             if (writeNewWords) {
