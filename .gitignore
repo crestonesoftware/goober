@@ -2,3 +2,4 @@
 *.class
 testResources/goober/output/.
 output/.
+output/o2c - output.dict

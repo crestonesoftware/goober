@@ -8,7 +8,9 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Collection;
+import java.util.Comparator;
 import java.util.HashSet;
+import java.util.Vector;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -38,10 +40,15 @@ public class Dictionary {
 		return writeToFile(this.outputDictionaryFile, createFileIfNotExistent, false, true);
 	}	
 
+	private boolean writeToFile(File targetFile, boolean createFileIfNotExistent, boolean writeNewWords, boolean writeValidWords) {
+		return writeToFile(targetFile, createFileIfNotExistent, writeNewWords, writeValidWords, true);
+	}
+
+	
 	/*
 	 * TODO look up how finally block ends normally
 	 */
-	private boolean writeToFile(File targetFile, boolean createFileIfNotExistent, boolean writeNewWords, boolean writeValidWords) {
+	private boolean writeToFile(File targetFile, boolean createFileIfNotExistent, boolean writeNewWords, boolean writeValidWords, boolean sorted) {
         try {
             	if (!targetFile.exists()) {
             		log4j.trace("writeToFile(): target file [" + targetFile.getName() + "] does not exist"); 
@@ -68,11 +75,17 @@ public class Dictionary {
             int lineCounter;
             int wordsInTheSet;
             boolean needNewLine = false;
+            Vector<String> sortedWords;
             
             if (writeNewWords) {
             	lineCounter = 0;
             	wordsInTheSet = unrecognizedWords.size();
-            	for (String str : this.unrecognizedWords) {
+            	sortedWords = new Vector<String>();
+            	sortedWords.addAll(this.unrecognizedWords);
+            	if (sorted)
+            		sortedWords.sort(Comparator.naturalOrder());
+            	
+            	for (String str : sortedWords) {
                 	bufferedWriter.write(str + ",c");
 	            	if (lineCounter < wordsInTheSet) //don't add newLine after last word
 	            		bufferedWriter.newLine();
@@ -85,7 +98,13 @@ public class Dictionary {
             if (writeValidWords) {
             	lineCounter = 0;
             	wordsInTheSet = unrecognizedWords.size();
-            	for (String str : this.validWords) {
+            	sortedWords = new Vector<String>();
+            	sortedWords.addAll(this.validWords);
+            	if (sorted)
+            		sortedWords.sort(Comparator.naturalOrder());
+
+            	
+            	for (String str : sortedWords) {
 	            	if (needNewLine) {
 	            		bufferedWriter.newLine(); // add newline if new words were already written because new words will have ended without a newline
 	            		needNewLine = false;
