@@ -45,7 +45,6 @@ public class TestDictionary {
 	private String ACCOUNT_MISPELLED_INTERIOR_ONE_C = "Acount";
 	private String ACCOUNT_MISPELLED_END_TWO_TS = "Accountt";
 	private String ACCOUNT_MISPELLED_FIRST_TWO_CAPS = "ACcount";
-	private String XYZXYZ_UPPER_CASE = "XYZXYZ";
 	
 	private Dictionary tstDict;
 	private HashSet<String> tstWords;
